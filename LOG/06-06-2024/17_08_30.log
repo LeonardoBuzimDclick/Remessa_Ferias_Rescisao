@@ -1,0 +1,42 @@
+06-06-2024 17:08:30.580Z;functions.bot_text_art;      ____   
+06-06-2024 17:08:30.581Z;functions.bot_text_art;     [____]    
+06-06-2024 17:08:30.581Z;functions.bot_text_art;   |=]()()[=|  
+06-06-2024 17:08:30.581Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+06-06-2024 17:08:30.582Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+06-06-2024 17:08:30.582Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+06-06-2024 17:08:30.583Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+06-06-2024 17:08:30.583Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+06-06-2024 17:08:30.587Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+06-06-2024 17:08:30.588Z;functions.bot_text_art;     |_||_|                                                     
+06-06-2024 17:08:30.589Z;functions.bot_text_art;     | ||_|_   
+06-06-2024 17:08:30.590Z;functions.bot_text_art;   |___||___|  
+06-06-2024 17:08:30.590Z;functions.bot_text_art;               
+06-06-2024 17:08:30.600Z;functions.open_RM;  OPEN PROGRAM RM
+06-06-2024 17:08:49.587Z;functions.loggin_RM;  ENTRAR USER_NAME
+06-06-2024 17:08:53.304Z;functions.loggin_RM;  ENTRAR PASSWORD
+06-06-2024 17:08:54.725Z;functions.loggin_RM;  ENTRAR RM
+06-06-2024 17:09:31.478Z;functions.enter_coligada;  CLICK CONTEXTO
+06-06-2024 17:09:36.040Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+06-06-2024 17:09:39.775Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+06-06-2024 17:09:39.977Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+06-06-2024 17:09:41.728Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+06-06-2024 17:09:43.103Z;functions.enter_coligada;  CLICK CONCLUIR
+06-06-2024 17:10:23.025Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 15, in <module>
+    enter_coligada()
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 120, in enter_coligada
+    click_concluir = cc.wait_disappear(locator.rm.button_concluir, wait_timeout=120)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\clicknium\_clicknium.py", line 166, in wait_disappear
+    result = _InvokerService.wait_disappear(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 50, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\clicknium\core\service\invokerservice.py", line 302, in wait_disappear
+    return UiElementRunner.WaitElementDisappear(locator_item.Locator, locator_item.Locator_Variables, locator_item.Locator_Image, timeout * 1000)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+06-06-2024 17:10:23.601Z;functions.show_exception_and_exit;  PRINT SALVO
+06-06-2024 17:10:24.000Z;functions.show_exception_and_exit;  RM FECHADO

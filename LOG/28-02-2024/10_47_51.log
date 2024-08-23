@@ -1,0 +1,9 @@
+28-02-2024 10:48:07.869Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 10:48:18.244Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 10:48:28.619Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 10:48:28.619Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-02-2024 10:48:47.978Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 16 registros?
+28-02-2024 10:48:50.095Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS

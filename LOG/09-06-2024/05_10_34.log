@@ -1,0 +1,263 @@
+09-06-2024 05:10:34.784Z;functions.bot_text_art;      ____   
+09-06-2024 05:10:34.784Z;functions.bot_text_art;     [____]    
+09-06-2024 05:10:34.784Z;functions.bot_text_art;   |=]()()[=|  
+09-06-2024 05:10:34.799Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+09-06-2024 05:10:34.799Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+09-06-2024 05:10:34.799Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+09-06-2024 05:10:34.799Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+09-06-2024 05:10:34.799Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+09-06-2024 05:10:34.799Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+09-06-2024 05:10:34.799Z;functions.bot_text_art;     |_||_|                                                     
+09-06-2024 05:10:34.799Z;functions.bot_text_art;     | ||_|_   
+09-06-2024 05:10:34.799Z;functions.bot_text_art;   |___||___|  
+09-06-2024 05:10:34.815Z;functions.bot_text_art;               
+09-06-2024 05:10:34.815Z;functions.open_RM;  OPEN PROGRAM RM
+09-06-2024 05:11:01.362Z;functions.loggin_RM;  ENTRAR USER_NAME
+09-06-2024 05:11:05.237Z;functions.loggin_RM;  ENTRAR PASSWORD
+09-06-2024 05:11:06.877Z;functions.loggin_RM;  ENTRAR RM
+09-06-2024 05:14:08.752Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO
+09-06-2024 05:14:08.752Z;functions.enter_coligada;  AGUARDANDO 1
+09-06-2024 05:14:10.252Z;functions.enter_coligada;  CLICK CONTEXTO
+09-06-2024 05:14:13.221Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+09-06-2024 05:14:17.563Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+09-06-2024 05:14:17.783Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+09-06-2024 05:14:20.253Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+09-06-2024 05:14:21.815Z;functions.enter_coligada;  CLICK CONCLUIR
+09-06-2024 05:15:42.596Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+09-06-2024 05:15:43.627Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+09-06-2024 05:15:45.565Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+09-06-2024 05:15:46.565Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+09-06-2024 05:15:46.565Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 5
+09-06-2024 05:15:46.596Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO antes da remoção: None
+09-06-2024 05:15:46.612Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO antes da remoção: None
+09-06-2024 05:15:46.612Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO após a remoção: None
+09-06-2024 05:15:46.612Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO após a remoção: None
+09-06-2024 05:15:46.612Z;functions.obter_intervalo_data;  hoje -  2024-06-09 05:15:46.612442
+09-06-2024 05:15:46.612Z;functions.check_movimentacao_bancaria;  DATA INICIO 12-06-2024
+09-06-2024 05:15:46.612Z;functions.check_movimentacao_bancaria;  DATA FIM 18-06-2024
+09-06-2024 05:15:46.612Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+09-06-2024 05:15:52.940Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+09-06-2024 05:15:55.252Z;functions.waitForImage;  IMAGEM BORDERO image found.
+09-06-2024 05:15:57.393Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+09-06-2024 05:16:07.908Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+09-06-2024 05:16:08.649Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+09-06-2024 05:16:08.694Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+09-06-2024 05:16:12.909Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+09-06-2024 05:16:17.533Z;functions.waitForImage;  FILTER CLEAN image found.
+09-06-2024 05:16:19.667Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+09-06-2024 05:16:19.897Z;functions.waitForImage;  FILTER CLEAN image found.
+09-06-2024 05:16:22.011Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+09-06-2024 05:16:37.377Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-06-2024 05:16:41.440Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+09-06-2024 05:16:42.660Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+09-06-2024 05:16:45.127Z;functions.movimentacao_bancaria;  HOVER FILTER
+09-06-2024 05:16:45.729Z;functions.movimentacao_bancaria;  CLICK FILTER
+09-06-2024 05:16:50.054Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+09-06-2024 05:16:52.159Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+09-06-2024 05:16:54.267Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+09-06-2024 05:16:56.372Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+09-06-2024 05:17:14.143Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE.
+09-06-2024 05:17:19.346Z;functions.waitForImage;  FILTER CLEAN image found.
+09-06-2024 05:17:21.482Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+09-06-2024 05:17:36.752Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-06-2024 05:17:52.096Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-06-2024 05:17:54.127Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+09-06-2024 05:17:56.424Z;functions.remessa_pagamento;  HOVER FILTER
+09-06-2024 05:17:57.010Z;functions.remessa_pagamento;  CLICK FILTER
+09-06-2024 05:18:01.326Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+09-06-2024 05:18:03.429Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+09-06-2024 05:18:05.538Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+09-06-2024 05:18:07.674Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+09-06-2024 05:18:25.618Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+09-06-2024 05:18:26.627Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+09-06-2024 05:18:28.221Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+09-06-2024 05:18:29.190Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+09-06-2024 05:18:35.502Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+09-06-2024 05:18:36.439Z;functions.waitForImage;  LANÇAMENTOS image found.
+09-06-2024 05:18:38.573Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+09-06-2024 05:18:53.987Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+09-06-2024 05:18:53.987Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+09-06-2024 05:18:53.987Z;functions.data_filter;  QUARTA-FEIRA: 12-06-2024
+09-06-2024 05:18:53.987Z;functions.data_filter;  TERCA-FEIRA: 18-06-2024
+09-06-2024 05:19:07.752Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+09-06-2024 05:19:12.393Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 12-06-2024
+09-06-2024 05:19:16.768Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 18-06-2024
+09-06-2024 05:19:17.815Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+09-06-2024 05:19:22.876Z;functions.desmark_filter;  AGUARDANDO 1
+09-06-2024 05:19:25.315Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+09-06-2024 05:19:27.939Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+09-06-2024 05:19:30.752Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+09-06-2024 05:19:33.848Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+09-06-2024 05:19:36.846Z;functions.desmark_filter;  ATUALIZA O FILTRO
+09-06-2024 05:19:37.080Z;functions.waitForImage;  FILTER CLEAN image found.
+09-06-2024 05:19:39.198Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+09-06-2024 05:19:54.596Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-06-2024 05:20:10.111Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-06-2024 05:20:13.631Z;functions.tabela_vazia;  Texto extraido 1/1
+09-06-2024 05:20:13.634Z;functions.tabela_vazia;  Count 1
+09-06-2024 05:20:13.636Z;functions.tabela_vazia;  Type <class 'int'>
+09-06-2024 05:20:13.637Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+09-06-2024 05:20:15.189Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+09-06-2024 05:20:20.298Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+09-06-2024 05:20:25.544Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+09-06-2024 05:20:27.647Z;functions.desbloqueio;  SETA PARA DIREITA
+09-06-2024 05:20:34.464Z;functions.desbloqueio;  8 SETAS PARA BAIXO
+09-06-2024 05:20:36.567Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+09-06-2024 05:21:38.977Z;functions.exec_lancamentos;  CONTROL G
+09-06-2024 05:21:42.846Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+09-06-2024 05:21:44.349Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+09-06-2024 05:21:45.908Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+09-06-2024 05:21:48.954Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+09-06-2024 05:21:50.252Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+09-06-2024 05:21:51.814Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+09-06-2024 05:21:53.064Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+09-06-2024 05:21:53.064Z;functions.process_lancamentos;  AGUARDANDO 1
+09-06-2024 05:22:06.658Z;functions.waitForImage;  PRESS BUTTON OK image found.
+09-06-2024 05:22:06.658Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO FOI EXECUTADO COM SUCESSO.
+09-06-2024 05:22:12.316Z;functions.process_lancamentos;  Lançamento Ref. 963607: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+09-06-2024 05:22:24.550Z;functions.proccess_bordero;  SELECIONAR INCLUSÃO DE BORDERO
+09-06-2024 05:22:44.908Z;functions.waitForImage;  PRESS BUTON SIM image not found.
+09-06-2024 05:22:46.533Z;functions.proccess_bordero;  CLICK EM CONVÊNIO TRÊS PONTINHOS
+09-06-2024 05:22:48.502Z;functions.proccess_bordero;  CLICK EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+09-06-2024 05:22:49.939Z;functions.proccess_bordero;  CLICK EM ID DO CONVÊNIO
+09-06-2024 05:22:52.047Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+09-06-2024 05:22:54.152Z;functions.proccess_bordero;  ESCREVE O ID 9 - FERIAS/RESCISÃO
+09-06-2024 05:22:56.255Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 9 - FERIAS/RESCISÃO
+09-06-2024 05:22:58.361Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 9 - FERIAS/RESCISÃO
+09-06-2024 05:23:01.533Z;functions.proccess_bordero;  CLICK EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+09-06-2024 05:23:19.752Z;functions.waitForImage;  PRESS BUTTON OK image found.
+09-06-2024 05:23:21.755Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+09-06-2024 05:23:24.877Z;functions.proccess_bordero;  CLICK EM FECHAR.
+09-06-2024 05:23:26.925Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+09-06-2024 05:23:28.691Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+09-06-2024 05:23:30.970Z;functions.waitForImage;  IMAGEM BORDERO image found.
+09-06-2024 05:23:33.104Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+09-06-2024 05:23:43.455Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+09-06-2024 05:23:44.220Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+09-06-2024 05:23:44.283Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+09-06-2024 05:23:48.495Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+09-06-2024 05:23:49.471Z;functions.waitForImage;  FILTER CLEAN image found.
+09-06-2024 05:23:51.609Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+09-06-2024 05:24:06.721Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-06-2024 05:24:22.064Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-06-2024 05:24:25.814Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+09-06-2024 05:24:27.038Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+09-06-2024 05:24:29.346Z;functions.movimentacao_bancaria;  HOVER FILTER
+09-06-2024 05:24:29.950Z;functions.movimentacao_bancaria;  CLICK FILTER
+09-06-2024 05:24:34.267Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+09-06-2024 05:24:36.371Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+09-06-2024 05:24:38.478Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+09-06-2024 05:24:40.582Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+09-06-2024 05:24:46.002Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+09-06-2024 05:24:48.111Z;functions.movimentacao_bancaria;  CLICK EM PROCESSOS
+09-06-2024 05:24:50.215Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+09-06-2024 05:24:52.319Z;functions.movimentacao_bancaria;  APERTA ENTER
+09-06-2024 05:24:55.502Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+09-06-2024 05:24:55.517Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+09-06-2024 05:25:12.345Z;functions.waitForImage;  PRESS BUTTON OK image found.
+09-06-2024 05:25:12.345Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+09-06-2024 05:25:13.439Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+09-06-2024 05:25:18.673Z;functions.waitForImage;  FILTER CLEAN image found.
+09-06-2024 05:25:20.791Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+09-06-2024 05:25:36.095Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-06-2024 05:25:51.502Z;functions.waitForImage;  FILTER CLEAN image not found.
+09-06-2024 05:26:10.546Z;functions.remessa_pagamento;  12 PASSOS PARA ESQUERDA NA TABELA >>
+09-06-2024 05:26:12.783Z;functions.remessa_pagamento;  HOVER FILTER
+09-06-2024 05:26:13.384Z;functions.remessa_pagamento;  CLICK FILTER
+09-06-2024 05:26:17.700Z;functions.remessa_pagamento;  CLICA NO FILTRO  STATUS DA REMESSA
+09-06-2024 05:26:19.804Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+09-06-2024 05:26:21.913Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+09-06-2024 05:26:24.016Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADOS
+09-06-2024 05:26:30.987Z;functions.remessa_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA <<
+09-06-2024 05:26:33.251Z;functions.check_user_bot;  Texto extraido 1/1
+09-06-2024 05:26:33.251Z;functions.check_user_bot;  Count 1
+09-06-2024 05:26:33.251Z;functions.check_user_bot;  Type <class 'int'>
+09-06-2024 05:26:35.364Z;functions.check_user_bot;  CHECK USER BOT 1
+09-06-2024 05:26:37.366Z;functions.check_user_bot;  dclick
+09-06-2024 05:26:40.078Z;functions.check_user_bot;  7 PASSOS PARA DIREITA NA TABELA >>
+09-06-2024 05:26:44.192Z;functions.check_user_bot;  341 / 3212 / 02675 - FERIAS/RESCISAO
+09-06-2024 05:26:44.192Z;functions.check_user_bot;  NOME FERIAS/RECISAO ENCONTRADO
+09-06-2024 05:26:46.401Z;functions.check_user_bot;  CLICK EM PROCESSOS
+09-06-2024 05:26:48.504Z;functions.check_user_bot;  APERTA PARA BAIXO 0
+09-06-2024 05:26:50.606Z;functions.check_user_bot;  APERTA PARA BAIXO 1
+09-06-2024 05:26:52.709Z;functions.check_user_bot;  APERTA PARA BAIXO 2
+09-06-2024 05:26:54.812Z;functions.check_user_bot;  APERTA ENTER
+09-06-2024 05:26:58.002Z;functions.check_user_bot;  CLICK EM REMESSAS DE PAGAMENTO
+09-06-2024 05:26:59.114Z;functions.check_user_bot;  APERTA TAB 0
+09-06-2024 05:27:00.220Z;functions.check_user_bot;  APERTA TAB 1
+09-06-2024 05:27:01.330Z;functions.check_user_bot;  APERTA TAB 2
+09-06-2024 05:27:11.908Z;functions.check_user_bot;  CLICK EM AVANÇAR
+09-06-2024 05:27:11.908Z;functions.check_user_bot;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+09-06-2024 05:27:11.908Z;functions.check_user_bot;  QUARTA-FEIRA: 12-06-2024
+09-06-2024 05:27:11.908Z;functions.check_user_bot;  TERCA-FEIRA: 18-06-2024
+09-06-2024 05:27:17.002Z;functions.check_user_bot;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+09-06-2024 05:27:18.220Z;functions.check_user_bot;  CLICK NOS ... PARA SELECIONAR O DIRETÓRIO E NOME DO ARQUIVO.
+09-06-2024 05:27:22.002Z;functions.check_user_bot;  DUPLO CLICK NO DIRETORIO
+09-06-2024 05:27:24.355Z;functions.check_user_bot;  APERTA TAB 0
+09-06-2024 05:27:24.961Z;functions.check_user_bot;  APERTA TAB 1
+09-06-2024 05:27:25.566Z;functions.check_user_bot;  APERTA TAB 2
+09-06-2024 05:27:26.169Z;functions.check_user_bot;  APERTA TAB 3
+09-06-2024 05:27:26.772Z;functions.check_user_bot;  APERTA TAB 4
+09-06-2024 05:27:27.376Z;functions.check_user_bot;  APERTA TAB 5
+09-06-2024 05:27:27.377Z;functions.check_user_bot;  LETRA "A" SERÁ UTILIZADA
+09-06-2024 05:27:27.488Z;functions.check_user_bot;  F121824A.txt
+09-06-2024 05:27:28.502Z;functions.check_user_bot;  CLICK NO BUTÃO SALVAR
+09-06-2024 05:27:29.941Z;functions.check_user_bot;  CLICK EM AVANCAR PARA CONCLUIR
+09-06-2024 05:27:31.317Z;functions.check_user_bot;  CLICK EM EXECUTAR
+09-06-2024 05:27:58.911Z;functions.waitForImage;  PRESS BUTTON OK image found.
+09-06-2024 05:28:00.915Z;functions.check_user_bot;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+09-06-2024 05:28:10.801Z;functions.check_user_bot;  ===========================================================================================================
+LANÇAMENTOS ENVIADOS PARA REMESSA PAGAMENTO
+Coligada: 1
+ID Remessa: 10
+Convênio: 9
+Data: 09/06/2024 05:27:54
+Borderô remetidos: 1
+===========================================================================================================
+Borderô: 1-9509
+
+Lançamentos remetidos no Borderô:
+Lancamento 1-963607
+----------------------------------------------------------------------------------------------------------
+
+
+09-06-2024 05:28:10.989Z;functions.show_exception_and_exit;  [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 31, in <module>
+    remessa_pagamento()
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 982, in remessa_pagamento
+    check_user_bot()
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 1179, in check_user_bot
+    emailSuccess()
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 1247, in emailSuccess
+    yag.send(to=str(email_receivers).split(','), subject=f"SUCESSO - BOT REMESSAS FÉRIAS/RESCISÃO",
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 156, in send
+    self.login()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 210, in login
+    self._login(self.credentials)
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 217, in _login
+    self.smtp = self.connection(self.host, self.port, **self.kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1050, in __init__
+    SMTP.__init__(self, host, port, local_hostname, timeout,
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1057, in _get_socket
+    new_socket = self.context.wrap_socket(new_socket,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1075, in _create
+    self.do_handshake()
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1346, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+09-06-2024 05:28:11.470Z;functions.show_exception_and_exit;  PRINT SALVO
+09-06-2024 05:28:12.111Z;functions.show_exception_and_exit;  RM FECHADO

@@ -1,0 +1,92 @@
+08-05-2024 14:00:21.267Z;functions.bot_text_art;      ____   
+08-05-2024 14:00:21.267Z;functions.bot_text_art;     [____]    
+08-05-2024 14:00:21.267Z;functions.bot_text_art;   |=]()()[=|  
+08-05-2024 14:00:21.267Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+08-05-2024 14:00:21.267Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+08-05-2024 14:00:21.267Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+08-05-2024 14:00:21.267Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+08-05-2024 14:00:21.267Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+08-05-2024 14:00:21.267Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+08-05-2024 14:00:21.267Z;functions.bot_text_art;     |_||_|                                                     
+08-05-2024 14:00:21.267Z;functions.bot_text_art;     | ||_|_   
+08-05-2024 14:00:21.267Z;functions.bot_text_art;   |___||___|  
+08-05-2024 14:00:21.267Z;functions.bot_text_art;               
+08-05-2024 14:00:21.517Z;functions.open_RM;  OPEN PROGRAM RM
+08-05-2024 14:00:35.393Z;functions.loggin_RM;  ENTRAR USER_NAME
+08-05-2024 14:00:38.237Z;functions.loggin_RM;  ENTRAR PASSWORD
+08-05-2024 14:00:38.924Z;functions.loggin_RM;  ENTRAR RM
+08-05-2024 14:01:18.046Z;functions.enter_coligada;  CLICK CONTEXTO
+08-05-2024 14:01:22.002Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+08-05-2024 14:01:25.085Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+08-05-2024 14:01:25.187Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+08-05-2024 14:01:27.332Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+08-05-2024 14:01:28.530Z;functions.enter_coligada;  CLICK CONCLUIR
+08-05-2024 14:01:42.487Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+08-05-2024 14:01:43.096Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+08-05-2024 14:01:44.158Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+08-05-2024 14:01:46.463Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+08-05-2024 14:01:59.346Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+08-05-2024 14:02:01.503Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-05-2024 14:02:03.621Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-05-2024 14:02:13.639Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-05-2024 14:02:14.191Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 14:02:14.206Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+08-05-2024 14:02:18.412Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+08-05-2024 14:02:20.381Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 14:02:22.498Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 14:02:37.768Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 14:02:53.063Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 14:02:55.831Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 14:02:57.043Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+08-05-2024 14:02:58.299Z;functions.movimentacao_bancaria;  HOVER FILTER
+08-05-2024 14:02:58.634Z;functions.movimentacao_bancaria;  CLICK FILTER
+08-05-2024 14:03:02.943Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+08-05-2024 14:03:05.045Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+08-05-2024 14:03:07.150Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+08-05-2024 14:03:09.251Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+08-05-2024 14:03:27.284Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE.
+08-05-2024 14:03:32.378Z;functions.waitForImage;  FILTER CLEAN image found.
+08-05-2024 14:03:34.507Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+08-05-2024 14:03:49.775Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 14:04:05.143Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-05-2024 14:04:05.955Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-05-2024 14:04:07.222Z;functions.remessa_pagamento;  HOVER FILTER
+08-05-2024 14:04:07.511Z;functions.remessa_pagamento;  CLICK FILTER
+08-05-2024 14:04:11.824Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+08-05-2024 14:04:13.926Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+08-05-2024 14:04:16.033Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+08-05-2024 14:04:18.134Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+08-05-2024 14:04:36.097Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+08-05-2024 14:04:36.692Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+08-05-2024 14:04:37.674Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+08-05-2024 14:04:38.352Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+08-05-2024 14:05:40.299Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 17, in <module>
+    enter_contas_a_pagar()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 137, in enter_contas_a_pagar
+    contas_pagar.click()
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+08-05-2024 14:05:40.455Z;functions.show_exception_and_exit;  PRINT SALVO
+08-05-2024 14:05:40.539Z;functions.show_exception_and_exit;  RM FECHADO
+08-05-2024 14:05:42.502Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+08-05-2024 14:05:42.502Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+08-05-2024 14:05:42.502Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+08-05-2024 14:05:42.502Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+08-05-2024 14:05:42.517Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+08-05-2024 14:05:42.517Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+08-05-2024 14:05:42.564Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+08-05-2024 14:05:42.580Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+08-05-2024 14:05:42.580Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+08-05-2024 14:05:42.580Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+08-05-2024 14:05:42.580Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+08-05-2024 14:05:42.580Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+08-05-2024 14:05:42.580Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+08-05-2024 14:05:42.596Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+08-05-2024 14:05:42.596Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+08-05-2024 14:05:42.596Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+08-05-2024 14:05:42.596Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+08-05-2024 14:05:42.596Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+08-05-2024 14:05:45.657Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+08-05-2024 14:05:45.657Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

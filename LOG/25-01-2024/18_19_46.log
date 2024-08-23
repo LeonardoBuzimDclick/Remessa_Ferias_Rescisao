@@ -1,0 +1,39 @@
+25-01-2024 18:19:46.567Z;functions.bot_text_art;      ____   
+25-01-2024 18:19:46.568Z;functions.bot_text_art;     [____]    
+25-01-2024 18:19:46.568Z;functions.bot_text_art;   |=]()()[=|  
+25-01-2024 18:19:46.569Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+25-01-2024 18:19:46.569Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-01-2024 18:19:46.569Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-01-2024 18:19:46.570Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-01-2024 18:19:46.570Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-01-2024 18:19:46.571Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-01-2024 18:19:46.571Z;functions.bot_text_art;     |_||_|                                                     
+25-01-2024 18:19:46.571Z;functions.bot_text_art;     | ||_|_   
+25-01-2024 18:19:46.572Z;functions.bot_text_art;   |___||___|  
+25-01-2024 18:19:46.572Z;functions.bot_text_art;               
+25-01-2024 18:19:46.576Z;functions.open_RM;  OPEN PROGRAM RM
+25-01-2024 18:19:53.056Z;functions.loggin_RM;  ENTRAR USER_NAME
+25-01-2024 18:19:53.940Z;functions.loggin_RM;  ENTRAR PASSWORD
+25-01-2024 18:19:54.684Z;functions.loggin_RM;  ENTRAR RM
+25-01-2024 18:20:22.024Z;functions.enter_coligada;  CLICK CONTEXTO
+25-01-2024 18:20:26.023Z;functions.enter_coligada;  CLICK COLIGADA 1
+25-01-2024 18:20:27.431Z;functions.enter_coligada;  CLICK AVANÇAR
+25-01-2024 18:20:29.060Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+25-01-2024 18:20:29.162Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+25-01-2024 18:20:30.086Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+25-01-2024 18:20:31.211Z;functions.enter_coligada;  CLICK CONCLUIR
+25-01-2024 18:20:41.773Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+25-01-2024 18:20:42.399Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-01-2024 18:20:43.524Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-01-2024 18:20:44.243Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-01-2024 18:20:50.087Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-01-2024 18:20:50.191Z;functions.waitForImage;  LANÇAMENTOS image found.
+25-01-2024 18:20:52.311Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+25-01-2024 18:21:07.498Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+25-01-2024 18:21:07.498Z;functions.data_filter;  DATA INICIO 31-01-2024
+25-01-2024 18:21:07.499Z;functions.data_filter;  DATA FIM 06-02-2024
+25-01-2024 18:21:07.499Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-01-2024 18:21:07.499Z;functions.data_filter;  QUARTA-FEIRA: 31-01-2024
+25-01-2024 18:21:07.500Z;functions.data_filter;  TERCA-FEIRA: 06-02-2024
+25-01-2024 18:21:11.412Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+25-01-2024 18:21:12.056Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO

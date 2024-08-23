@@ -1,0 +1,318 @@
+14-03-2024 20:00:36.453Z;functions.bot_text_art;      ____   
+14-03-2024 20:00:36.454Z;functions.bot_text_art;     [____]    
+14-03-2024 20:00:36.454Z;functions.bot_text_art;   |=]()()[=|  
+14-03-2024 20:00:36.455Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+14-03-2024 20:00:36.455Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+14-03-2024 20:00:36.455Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+14-03-2024 20:00:36.456Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+14-03-2024 20:00:36.456Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+14-03-2024 20:00:36.458Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+14-03-2024 20:00:36.458Z;functions.bot_text_art;     |_||_|                                                     
+14-03-2024 20:00:36.459Z;functions.bot_text_art;     | ||_|_   
+14-03-2024 20:00:36.459Z;functions.bot_text_art;   |___||___|  
+14-03-2024 20:00:36.459Z;functions.bot_text_art;               
+14-03-2024 20:00:37.145Z;functions.open_RM;  OPEN PROGRAM RM
+14-03-2024 20:01:02.224Z;functions.loggin_RM;  ENTRAR USER_NAME
+14-03-2024 20:01:05.629Z;functions.loggin_RM;  ENTRAR PASSWORD
+14-03-2024 20:01:06.817Z;functions.loggin_RM;  ENTRAR RM
+14-03-2024 20:02:18.879Z;functions.enter_coligada;  CLICK CONTEXTO
+14-03-2024 20:02:24.394Z;functions.enter_coligada;  CLICK COLIGADA 1
+14-03-2024 20:02:26.987Z;functions.enter_coligada;  CLICK AVANÇAR
+14-03-2024 20:02:29.544Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+14-03-2024 20:02:29.670Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+14-03-2024 20:02:32.081Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+14-03-2024 20:02:33.544Z;functions.enter_coligada;  CLICK CONCLUIR
+14-03-2024 20:03:04.286Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+14-03-2024 20:03:05.133Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+14-03-2024 20:03:07.018Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+14-03-2024 20:03:09.738Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+14-03-2024 20:03:17.706Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+14-03-2024 20:03:20.474Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-03-2024 20:03:22.604Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-03-2024 20:03:42.674Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+14-03-2024 20:03:43.564Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+14-03-2024 20:03:43.611Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+14-03-2024 20:03:47.822Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+14-03-2024 20:03:53.311Z;functions.waitForImage;  FILTER CLEAN image found.
+14-03-2024 20:03:55.433Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+14-03-2024 20:03:55.783Z;functions.waitForImage;  FILTER CLEAN image found.
+14-03-2024 20:03:57.908Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+14-03-2024 20:04:13.377Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-03-2024 20:04:16.751Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+14-03-2024 20:04:17.978Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+14-03-2024 20:04:19.876Z;functions.movimentacao_bancaria;  HOVER FILTER
+14-03-2024 20:04:20.327Z;functions.movimentacao_bancaria;  CLICK FILTER
+14-03-2024 20:04:24.655Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+14-03-2024 20:04:26.758Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+14-03-2024 20:04:28.872Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+14-03-2024 20:04:30.974Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+14-03-2024 20:04:50.517Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE.
+14-03-2024 20:04:55.845Z;functions.waitForImage;  FILTER CLEAN image found.
+14-03-2024 20:04:57.970Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+14-03-2024 20:05:13.238Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-03-2024 20:05:28.705Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-03-2024 20:05:30.282Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+14-03-2024 20:05:32.110Z;functions.remessa_pagamento;  HOVER FILTER
+14-03-2024 20:05:32.568Z;functions.remessa_pagamento;  CLICK FILTER
+14-03-2024 20:05:36.901Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+14-03-2024 20:05:39.003Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+14-03-2024 20:05:41.122Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+14-03-2024 20:05:43.226Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+14-03-2024 20:06:02.812Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+14-03-2024 20:06:03.640Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+14-03-2024 20:06:05.216Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+14-03-2024 20:06:06.157Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+14-03-2024 20:06:15.458Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+14-03-2024 20:06:16.640Z;functions.waitForImage;  LANÇAMENTOS image found.
+14-03-2024 20:06:18.770Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+14-03-2024 20:06:34.004Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+14-03-2024 20:06:34.004Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO antes da remoção: None
+14-03-2024 20:06:34.004Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO antes da remoção: None
+14-03-2024 20:06:34.004Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO após a remoção: None
+14-03-2024 20:06:34.004Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO após a remoção: None
+14-03-2024 20:06:34.004Z;functions.obter_intervalo_data;  hoje -  2024-03-14 20:06:34.004223
+14-03-2024 20:06:34.004Z;functions.data_filter;  DATA INICIO 20-03-2024
+14-03-2024 20:06:34.004Z;functions.data_filter;  DATA FIM 26-03-2024
+14-03-2024 20:06:34.004Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+14-03-2024 20:06:34.004Z;functions.data_filter;  QUARTA-FEIRA: 20-03-2024
+14-03-2024 20:06:34.004Z;functions.data_filter;  TERCA-FEIRA: 26-03-2024
+14-03-2024 20:06:38.141Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+14-03-2024 20:06:38.953Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+14-03-2024 20:06:43.390Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 20-03-2024
+14-03-2024 20:06:47.407Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 26-03-2024
+14-03-2024 20:06:48.312Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+14-03-2024 20:06:55.000Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+14-03-2024 20:06:56.859Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+14-03-2024 20:06:58.781Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+14-03-2024 20:07:00.765Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+14-03-2024 20:07:02.936Z;functions.desmark_filter;  ATUALIZA O FILTRO
+14-03-2024 20:07:03.271Z;functions.waitForImage;  FILTER CLEAN image found.
+14-03-2024 20:07:05.386Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+14-03-2024 20:07:20.890Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-03-2024 20:07:36.285Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-03-2024 20:07:38.688Z;functions.tabela_vazia;  Texto extraido 1/1
+14-03-2024 20:07:38.688Z;functions.tabela_vazia;  Count 1
+14-03-2024 20:07:38.688Z;functions.tabela_vazia;  Type <class 'int'>
+14-03-2024 20:07:38.688Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+14-03-2024 20:07:39.921Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+14-03-2024 20:07:45.029Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+14-03-2024 20:07:50.249Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+14-03-2024 20:07:52.353Z;functions.desbloqueio;  SETA PARA DIREITA
+14-03-2024 20:07:59.779Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+14-03-2024 20:08:01.882Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+14-03-2024 20:09:04.293Z;functions.exec_lancamentos;  CONTROL G
+14-03-2024 20:09:09.355Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+14-03-2024 20:09:10.593Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+14-03-2024 20:09:11.873Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+14-03-2024 20:09:15.325Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+14-03-2024 20:09:16.609Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+14-03-2024 20:09:17.904Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+14-03-2024 20:09:19.091Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+14-03-2024 20:09:32.060Z;functions.waitForImage;  PRESS BUTTON OK image found.
+14-03-2024 20:09:34.072Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO FOI EXECUTADO COM SUCESSO.
+14-03-2024 20:09:43.551Z;functions.process_lancamentos;  Lançamento Ref. 929614: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+14-03-2024 20:09:56.128Z;functions.proccess_bordero;  SELECIONAR INCLUSÃO DE BORDERO
+14-03-2024 20:10:16.686Z;functions.waitForImage;  PRESS BUTON SIM image not found.
+14-03-2024 20:10:17.872Z;functions.proccess_bordero;  CLICK EM CONVÊNIO TRÊS PONTINHOS
+14-03-2024 20:10:20.732Z;functions.proccess_bordero;  CLICK EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+14-03-2024 20:10:22.060Z;functions.proccess_bordero;  CLICK EM ID DO CONVÊNIO
+14-03-2024 20:10:24.165Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+14-03-2024 20:10:26.268Z;functions.proccess_bordero;  ESCREVE O ID 9 - FERIAS/RESCISÃO
+14-03-2024 20:10:28.371Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 9 - FERIAS/RESCISÃO
+14-03-2024 20:10:30.476Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 9 - FERIAS/RESCISÃO
+14-03-2024 20:10:33.560Z;functions.proccess_bordero;  CLICK EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+14-03-2024 20:10:52.591Z;functions.waitForImage;  PRESS BUTTON OK image found.
+14-03-2024 20:10:54.602Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+14-03-2024 20:10:57.482Z;functions.proccess_bordero;  CLICK EM FECHAR.
+14-03-2024 20:11:00.904Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+14-03-2024 20:11:03.252Z;functions.waitForImage;  IMAGEM BORDERO image found.
+14-03-2024 20:11:05.360Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+14-03-2024 20:11:25.903Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+14-03-2024 20:11:26.574Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+14-03-2024 20:11:26.621Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+14-03-2024 20:11:30.837Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+14-03-2024 20:11:32.845Z;functions.waitForImage;  FILTER CLEAN image found.
+14-03-2024 20:11:34.967Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+14-03-2024 20:11:50.370Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-03-2024 20:12:05.824Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-03-2024 20:12:09.329Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+14-03-2024 20:12:10.573Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+14-03-2024 20:12:12.388Z;functions.movimentacao_bancaria;  HOVER FILTER
+14-03-2024 20:12:12.843Z;functions.movimentacao_bancaria;  CLICK FILTER
+14-03-2024 20:12:17.176Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+14-03-2024 20:12:19.278Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+14-03-2024 20:12:21.392Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+14-03-2024 20:12:23.495Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+14-03-2024 20:12:28.183Z;functions.movimentacao_bancaria;  SELECIONA TODAS AS TUPLAS COM STATUS PENDENTE
+14-03-2024 20:12:30.296Z;functions.movimentacao_bancaria;  CLICK EM PROCESSOS
+14-03-2024 20:12:32.399Z;functions.movimentacao_bancaria;  APERTA PARA BAIXO
+14-03-2024 20:12:34.501Z;functions.movimentacao_bancaria;  APERTA ENTER
+14-03-2024 20:12:37.423Z;functions.movimentacao_bancaria;  CLICK EM EXECUTAR BORDERO DE PAGAMENTO
+14-03-2024 20:12:46.714Z;functions.waitForImage;  PRESS BUTTON OK image found.
+14-03-2024 20:12:46.714Z;functions.movimentacao_bancaria;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+14-03-2024 20:12:47.573Z;functions.movimentacao_bancaria;  CLICK EM FECHAR.
+14-03-2024 20:12:52.889Z;functions.waitForImage;  FILTER CLEAN image found.
+14-03-2024 20:12:55.019Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+14-03-2024 20:13:10.574Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-03-2024 20:13:26.069Z;functions.waitForImage;  FILTER CLEAN image not found.
+14-03-2024 20:13:27.698Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+14-03-2024 20:13:29.605Z;functions.remessa_pagamento;  HOVER FILTER
+14-03-2024 20:13:30.056Z;functions.remessa_pagamento;  CLICK FILTER
+14-03-2024 20:13:34.390Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+14-03-2024 20:13:36.493Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+14-03-2024 20:13:38.613Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+14-03-2024 20:13:40.715Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+14-03-2024 20:13:44.610Z;functions.remessa_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA <<
+14-03-2024 20:13:46.683Z;functions.check_user_bot;  Texto extraido 1/1
+14-03-2024 20:13:46.683Z;functions.check_user_bot;  Count 1
+14-03-2024 20:13:46.683Z;functions.check_user_bot;  Type <class 'int'>
+14-03-2024 20:13:48.801Z;functions.check_user_bot;  CHECK USER BOT 1
+14-03-2024 20:13:50.802Z;functions.check_user_bot;  integracao
+14-03-2024 20:13:53.518Z;functions.check_user_bot;  7 PASSOS PARA DIREITA NA TABELA >>
+14-03-2024 20:13:57.622Z;functions.check_user_bot;  341 / 3212 / 02675 - FERIAS/RESCISAO
+14-03-2024 20:13:57.622Z;functions.check_user_bot;  NOME FERIAS/RECISAO ENCONTRADO
+14-03-2024 20:13:59.831Z;functions.check_user_bot;  CLICK EM PROCESSOS
+14-03-2024 20:14:01.935Z;functions.check_user_bot;  APERTA PARA BAIXO 0
+14-03-2024 20:14:04.038Z;functions.check_user_bot;  APERTA PARA BAIXO 1
+14-03-2024 20:14:06.140Z;functions.check_user_bot;  APERTA PARA BAIXO 2
+14-03-2024 20:14:08.243Z;functions.check_user_bot;  APERTA ENTER
+14-03-2024 20:14:11.167Z;functions.check_user_bot;  CLICK EM REMESSAS DE PAGAMENTO
+14-03-2024 20:14:12.274Z;functions.check_user_bot;  APERTA TAB 0
+14-03-2024 20:14:13.377Z;functions.check_user_bot;  APERTA TAB 1
+14-03-2024 20:14:14.479Z;functions.check_user_bot;  APERTA TAB 2
+14-03-2024 20:14:24.838Z;functions.check_user_bot;  CLICK EM AVANÇAR
+14-03-2024 20:14:24.838Z;functions.check_user_bot;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+14-03-2024 20:14:24.838Z;functions.check_user_bot;  QUARTA-FEIRA: 20-03-2024
+14-03-2024 20:14:24.838Z;functions.check_user_bot;  TERCA-FEIRA: 26-03-2024
+14-03-2024 20:14:29.745Z;functions.check_user_bot;  DESMARCA CHECKBOX PARA SALVAR ARQUIVO DE REMESSA
+14-03-2024 20:14:30.698Z;functions.check_user_bot;  CLICK NOS ... PARA SELECIONAR O DIRETÓRIO E NOME DO ARQUIVO.
+14-03-2024 20:14:34.471Z;functions.check_user_bot;  DUPLO CLICK NO DIRETORIO
+14-03-2024 20:14:36.878Z;functions.check_user_bot;  APERTA TAB 0
+14-03-2024 20:14:37.482Z;functions.check_user_bot;  APERTA TAB 1
+14-03-2024 20:14:38.084Z;functions.check_user_bot;  APERTA TAB 2
+14-03-2024 20:14:38.687Z;functions.check_user_bot;  APERTA TAB 3
+14-03-2024 20:14:39.291Z;functions.check_user_bot;  APERTA TAB 4
+14-03-2024 20:14:39.894Z;functions.check_user_bot;  APERTA TAB 5
+14-03-2024 20:14:39.894Z;functions.check_user_bot;  A ULTIMA LETRA USADA: B
+14-03-2024 20:14:39.894Z;functions.check_user_bot;  A LETRA SERA: C
+14-03-2024 20:14:40.023Z;functions.check_user_bot;  F202624C.txt
+14-03-2024 20:14:40.870Z;functions.check_user_bot;  CLICK NO BUTÃO SALVAR
+14-03-2024 20:14:42.229Z;functions.check_user_bot;  CLICK EM AVANCAR PARA CONCLUIR
+14-03-2024 20:14:43.807Z;functions.check_user_bot;  CLICK EM EXECUTAR
+14-03-2024 20:15:18.994Z;functions.waitForImage;  PRESS BUTTON OK image found.
+14-03-2024 20:15:21.005Z;functions.check_user_bot;  O PROCESSAMENTO DE AUTORIZAÇÃO DO BORDERO FOI EXECUTADO COM SUCESSO.
+14-03-2024 20:15:30.422Z;functions.check_user_bot;  ===========================================================================================================
+LANÇAMENTOS ENVIADOS PARA REMESSA PAGAMENTO
+Coligada: 1
+ID Remessa: 10
+Convênio: 9
+Data: 14/03/2024 20:15:11
+Borderô remetidos: 1
+===========================================================================================================
+Borderô: 1-8519
+
+Lançamentos remetidos no Borderô:
+Lancamento 1-929614
+----------------------------------------------------------------------------------------------------------
+
+
+14-03-2024 20:15:33.353Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: none;'. [1:174: {]
+14-03-2024 20:15:33.353Z;errorhandler.__handle;  Property: Unknown Property name. [1:204: -ms-interpolation-mode]
+14-03-2024 20:15:33.369Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:267: }]
+14-03-2024 20:15:33.369Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:281: {]
+14-03-2024 20:15:33.369Z;errorhandler.__handle;  Property: Unknown Property name. [1:356: -webkit-font-smoothing]
+14-03-2024 20:15:33.385Z;errorhandler.__handle;  Property: Unknown Property name. [1:486: -ms-text-size-adjust]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  Property: Unknown Property name. [1:521: -webkit-text-size-adjust]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:559: }]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border-collapse: separate;'. [1:574: {]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  Property: Unknown Property name. [1:617: mso-table-lspace]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  Property: Unknown Property name. [1:647: mso-table-rspace]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:690: }]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          font-family: sans-serif;'. [1:710: {]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:808: }]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #f6f6f6;'. [1:941: {]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1003: }]
+14-03-2024 20:15:33.400Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        display: block;'. [1:1178: {]
+14-03-2024 20:15:33.416Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1342: }]
+14-03-2024 20:15:33.416Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1452: {]
+14-03-2024 20:15:33.416Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1584: }]
+14-03-2024 20:15:33.416Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background: #ffffff;'. [1:1721: {]
+14-03-2024 20:15:33.416Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1804: }]
+14-03-2024 20:15:33.416Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:1822: {]
+14-03-2024 20:15:33.416Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1883: }]
+14-03-2024 20:15:33.416Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        padding-bottom: 10px;'. [1:1907: {]
+14-03-2024 20:15:33.434Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:1969: }]
+14-03-2024 20:15:33.436Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:1986: {]
+14-03-2024 20:15:33.440Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2086: }]
+14-03-2024 20:15:33.442Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          color: #999999;'. [1:2165: {]
+14-03-2024 20:15:33.443Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2253: }]
+14-03-2024 20:15:33.445Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #000000;'. [1:2404: {]
+14-03-2024 20:15:33.450Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2563: }]
+14-03-2024 20:15:33.451Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-size: 35px;'. [1:2575: {]
+14-03-2024 20:15:33.454Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2694: }]
+14-03-2024 20:15:33.455Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        font-family: sans-serif;'. [1:2723: {]
+14-03-2024 20:15:33.458Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2861: }]
+14-03-2024 20:15:33.459Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          list-style-position: inside;'. [1:2905: {]
+14-03-2024 20:15:33.460Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:2978: }]
+14-03-2024 20:15:33.461Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: #3498db;'. [1:2989: {]
+14-03-2024 20:15:33.465Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3055: }]
+14-03-2024 20:15:33.467Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        box-sizing: border-box;'. [1:3178: {]
+14-03-2024 20:15:33.468Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3231: }]
+14-03-2024 20:15:33.469Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          padding-bottom: 15px;'. [1:3265: {]
+14-03-2024 20:15:33.470Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3298: }]
+14-03-2024 20:15:33.471Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          width: auto;'. [1:3320: {]
+14-03-2024 20:15:33.471Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3350: }]
+14-03-2024 20:15:33.472Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3375: {]
+14-03-2024 20:15:33.474Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3477: }]
+14-03-2024 20:15:33.476Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{          background-color: #ffffff;'. [1:3495: {]
+14-03-2024 20:15:33.665Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3892: }]
+14-03-2024 20:15:33.665Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3923: {]
+14-03-2024 20:15:33.665Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:3965: }]
+14-03-2024 20:15:33.665Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        background-color: #3498db;'. [1:3989: {]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4084: }]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4234: {]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4267: }]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4283: {]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4313: }]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: center;'. [1:4336: {]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4371: }]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: right;'. [1:4393: {]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4427: }]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-align: left;'. [1:4448: {]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4481: }]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        clear: both;'. [1:4497: {]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4525: }]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-top: 0;'. [1:4539: {]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4569: }]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        margin-bottom: 0;'. [1:4583: {]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4616: }]
+14-03-2024 20:15:33.728Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        color: transparent;'. [1:4636: {]
+14-03-2024 20:15:33.743Z;errorhandler.__handle;  Property: Unknown Property name. [1:4799: mso-hide]
+14-03-2024 20:15:33.743Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4864: }]
+14-03-2024 20:15:33.743Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        text-decoration: none;'. [1:4887: {]
+14-03-2024 20:15:33.743Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:4925: }]
+14-03-2024 20:15:33.743Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '{        border: 0;'. [1:4937: {]
+14-03-2024 20:15:33.743Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '}'. [1:5027: }]
+14-03-2024 20:15:33.759Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      }'. [1:5217: {]
+14-03-2024 20:15:33.759Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+14-03-2024 20:15:33.759Z;errorhandler.__handle;  Property: No ":" after name found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+14-03-2024 20:15:33.759Z;errorhandler.__handle;  Property: No property value found: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}       [1:6259:       ]
+14-03-2024 20:15:33.759Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: table.body h1 {{          font-size: 28px !important;          margin-bottom: 10px !important;         }}        table.body p,        table.body ul,        table.body ol,        table.body td,        table.body span,        table.body a {{          font-size: 16px !important;         }}        table.body .wrapper,        table.body .article {{          padding: 10px !important;         }}        table.body .content {{          padding: 0 !important;         }}        table.body .container {{          padding: 0 !important;          width: 100% !important;         }}        table.body .main {{          border-left-width: 0 !important;          border-radius: 0 !important;          border-right-width: 0 !important;         }}        table.body .btn table {{          width: 100% !important;         }}        table.body .btn a {{          width: 100% !important;         }}        table.body .img-responsive {{          height: auto !important;          max-width: 100% !important;          width: auto !important;         }}      
+14-03-2024 20:15:33.759Z;errorhandler.__handle;  CSSStyleRule: No selector found: '{        .ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       }'. [1:6420: {]
+14-03-2024 20:15:33.774Z;errorhandler.__handle;  SelectorList: Unknown Syntax: ''
+14-03-2024 20:15:33.774Z;errorhandler.__handle;  CSSStyleDeclaration: Unexpected token, ignoring upto '.ExternalClass {{          width: 100%;         }}        .ExternalClass,        .ExternalClass p,        .ExternalClass span,        .ExternalClass font,        .ExternalClass td,        .ExternalClass div {{          line-height: 100%;         }}        .apple-link a {{          color: inherit !important;          font-family: inherit !important;          font-size: inherit !important;          font-weight: inherit !important;          line-height: inherit !important;          text-decoration: none !important;         }}        #MessageViewBody a {{          color: inherit;          text-decoration: none;          font-size: inherit;          font-family: inherit;          font-weight: inherit;          line-height: inherit;        }}        .btn-primary table td:hover {{          background-color: #34495e !important;         }}        .btn-primary a:hover {{          background-color: #34495e !important;          border-color: #34495e !important;         }}       '. [1:6429: .]
+14-03-2024 20:15:33.774Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+14-03-2024 20:15:33.790Z;errorhandler.__handle;  Property: Unknown Property name. [1:24: -webkit-font-smoothing]
+14-03-2024 20:15:33.790Z;errorhandler.__handle;  Property: Unknown Property name. [1:109: -ms-text-size-adjust]
+14-03-2024 20:15:33.790Z;errorhandler.__handle;  Property: Unknown Property name. [1:135: -webkit-text-size-adjust]
+14-03-2024 20:15:33.790Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: mso-table-lspace]
+14-03-2024 20:15:33.790Z;errorhandler.__handle;  Property: Unknown Property name. [1:20: mso-table-rspace]
+14-03-2024 20:15:33.821Z;errorhandler.__handle;  Property: Unknown Property name. [1:74: mso-hide]
+14-03-2024 20:15:33.821Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+14-03-2024 20:15:33.821Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+14-03-2024 20:15:33.821Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+14-03-2024 20:15:33.837Z;errorhandler.__handle;  Property: Unknown Property name. [1:1: -ms-interpolation-mode]
+14-03-2024 20:15:36.478Z;functions.emailSuccess;  Success e-mail sent.
+14-03-2024 20:15:37.909Z;functions.encerra_prog;  RM ENCERRADO

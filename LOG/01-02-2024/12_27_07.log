@@ -1,0 +1,424 @@
+01-02-2024 12:27:07.960Z;functions.bot_text_art;      ____   
+01-02-2024 12:27:07.960Z;functions.bot_text_art;     [____]    
+01-02-2024 12:27:07.960Z;functions.bot_text_art;   |=]()()[=|  
+01-02-2024 12:27:07.960Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+01-02-2024 12:27:07.960Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+01-02-2024 12:27:07.960Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+01-02-2024 12:27:07.961Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+01-02-2024 12:27:07.961Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+01-02-2024 12:27:07.961Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+01-02-2024 12:27:07.962Z;functions.bot_text_art;     |_||_|                                                     
+01-02-2024 12:27:07.962Z;functions.bot_text_art;     | ||_|_   
+01-02-2024 12:27:07.962Z;functions.bot_text_art;   |___||___|  
+01-02-2024 12:27:07.962Z;functions.bot_text_art;               
+01-02-2024 12:27:07.965Z;functions.open_RM;  OPEN PROGRAM RM
+01-02-2024 12:27:14.533Z;functions.loggin_RM;  ENTRAR USER_NAME
+01-02-2024 12:27:15.376Z;functions.loggin_RM;  ENTRAR PASSWORD
+01-02-2024 12:27:16.075Z;functions.loggin_RM;  ENTRAR RM
+01-02-2024 12:27:45.300Z;functions.enter_coligada;  CLICK CONTEXTO
+01-02-2024 12:27:49.236Z;functions.enter_coligada;  CLICK COLIGADA 1
+01-02-2024 12:27:50.645Z;functions.enter_coligada;  CLICK AVANÇAR
+01-02-2024 12:27:52.265Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+01-02-2024 12:27:52.367Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+01-02-2024 12:27:53.331Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+01-02-2024 12:27:54.205Z;functions.enter_coligada;  CLICK CONCLUIR
+01-02-2024 12:28:04.951Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+01-02-2024 12:28:05.550Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+01-02-2024 12:28:06.643Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+01-02-2024 12:28:07.362Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+01-02-2024 12:28:13.081Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+01-02-2024 12:28:13.229Z;functions.waitForImage;  LANÇAMENTOS image found.
+01-02-2024 12:28:15.337Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+01-02-2024 12:28:30.833Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+01-02-2024 12:28:30.833Z;functions.data_filter;  DATA INICIO 07-02-2024
+01-02-2024 12:28:30.833Z;functions.data_filter;  DATA FIM 13-02-2024
+01-02-2024 12:28:30.833Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+01-02-2024 12:28:30.833Z;functions.data_filter;  QUARTA-FEIRA: 07-02-2024
+01-02-2024 12:28:30.833Z;functions.data_filter;  TERCA-FEIRA: 13-02-2024
+01-02-2024 12:28:34.833Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+01-02-2024 12:28:35.457Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+01-02-2024 12:28:37.375Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 07-02-2024
+01-02-2024 12:28:38.892Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 13-02-2024
+01-02-2024 12:28:39.518Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+01-02-2024 12:28:52.049Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+01-02-2024 12:28:52.862Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+01-02-2024 12:28:53.711Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+01-02-2024 12:28:54.574Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+01-02-2024 12:28:55.478Z;functions.desmark_filter;  ATUALIZA O FILTRO
+01-02-2024 12:29:25.595Z;functions.waitForImage;  FILTER CLEAN image not found.
+01-02-2024 12:29:25.595Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+01-02-2024 12:29:58.299Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 21 registros?
+01-02-2024 12:30:00.408Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+01-02-2024 12:30:01.144Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+01-02-2024 12:30:06.246Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+01-02-2024 12:30:08.954Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+01-02-2024 12:30:11.056Z;functions.desbloqueio;  SETA PARA DIREITA
+01-02-2024 12:30:13.967Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+01-02-2024 12:30:16.069Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+01-02-2024 12:30:27.270Z;functions.desbloqueio;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+01-02-2024 12:30:28.502Z;functions.desbloqueio;  MSG AQUI: 
+01-02-2024 12:30:30.503Z;functions.desbloqueio;  DESBLOQUEIO COM SUCESSO
+01-02-2024 12:30:33.144Z;functions.desbloqueio;  SELECIONAR EVIDENCIAR ABA INFERIOR
+01-02-2024 12:30:35.245Z;functions.desbloqueio;  FECHANDO ABA INFERIOR
+01-02-2024 12:30:37.347Z;functions.exec_lancamentos;  CONTROL G
+01-02-2024 12:30:39.892Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+01-02-2024 12:30:40.613Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+01-02-2024 12:30:41.363Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+01-02-2024 12:30:43.437Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+01-02-2024 12:30:44.105Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+01-02-2024 12:30:44.894Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+01-02-2024 12:30:45.645Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+01-02-2024 12:30:58.492Z;functions.process_lancamentos;  EXECUÇÃO FINALIZADA
+01-02-2024 12:31:58.871Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+01-02-2024 12:32:00.881Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO COM ERRO.
+01-02-2024 12:32:09.817Z;functions.process_lancamentos;  Lançamento Ref. 911907: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911908: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911909: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911910: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911915: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911918: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911919: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911921: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911923: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911924: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911926: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911928: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911931: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911933: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911936: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911937: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911938: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911940: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911941: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911949: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911950: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-911907:
+Campo 'IdConvenio' do lançamento '1-911907' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911908:
+Campo 'IdConvenio' do lançamento '1-911908' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911909:
+Campo 'IdConvenio' do lançamento '1-911909' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911910:
+Campo 'IdConvenio' do lançamento '1-911910' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911915:
+Campo 'IdConvenio' do lançamento '1-911915' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911918:
+Campo 'IdConvenio' do lançamento '1-911918' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911919:
+Campo 'IdConvenio' do lançamento '1-911919' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911921:
+Campo 'IdConvenio' do lançamento '1-911921' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911923:
+Campo 'IdConvenio' do lançamento '1-911923' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911924:
+Campo 'IdConvenio' do lançamento '1-911924' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+01-02-2024 12:32:21.589Z;functions.process_lancamentos;  A VARIÁVEL 911907 NÃO ESTÁ PRESENTE NO VETOR.
+01-02-2024 12:32:23.792Z;functions.process_lancamentos;  A VARIÁVEL 911908 NÃO ESTÁ PRESENTE NO VETOR.
+01-02-2024 12:32:25.995Z;functions.process_lancamentos;  A VARIÁVEL 911909 NÃO ESTÁ PRESENTE NO VETOR.
+01-02-2024 12:32:28.198Z;functions.process_lancamentos;  A VARIÁVEL 911910 NÃO ESTÁ PRESENTE NO VETOR.
+01-02-2024 12:32:30.400Z;functions.process_lancamentos;  A VARIÁVEL 911915 NÃO ESTÁ PRESENTE NO VETOR.
+01-02-2024 12:32:32.604Z;functions.process_lancamentos;  A VARIÁVEL 911918 NÃO ESTÁ PRESENTE NO VETOR.
+01-02-2024 12:32:36.807Z;functions.exec_lancamentos;  CONTROL G
+01-02-2024 12:32:38.738Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+01-02-2024 12:32:39.425Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+01-02-2024 12:32:40.144Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+01-02-2024 12:32:41.718Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+01-02-2024 12:32:42.383Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+01-02-2024 12:32:43.144Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+01-02-2024 12:32:43.862Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+01-02-2024 12:33:04.990Z;functions.process_lancamentos;  EXECUÇÃO FINALIZADA
+01-02-2024 12:39:05.570Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+01-02-2024 12:39:05.570Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO FOI EXECUTADO MAIS UMA VEZ COM ERRO FAVOR VERIFICAR.
+01-02-2024 12:39:14.535Z;functions.process_lancamentos;  Lançamento Ref. 911907: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911908: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911909: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911910: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911915: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911918: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911919: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911921: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911923: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911924: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911926: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911928: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911931: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911933: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911936: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911937: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911938: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911940: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911941: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911949: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911950: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-911907:
+Campo 'IdConvenio' do lançamento '1-911907' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911908:
+Campo 'IdConvenio' do lançamento '1-911908' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911909:
+Campo 'IdConvenio' do lançamento '1-911909' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911910:
+Campo 'IdConvenio' do lançamento '1-911910' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911915:
+Campo 'IdConvenio' do lançamento '1-911915' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911918:
+Campo 'IdConvenio' do lançamento '1-911918' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911919:
+Campo 'IdConvenio' do lançamento '1-911919' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911921:
+Campo 'IdConvenio' do lançamento '1-911921' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911923:
+Campo 'IdConvenio' do lançamento '1-911923' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-911924:
+Campo 'IdConvenio' do lançamento '1-911924' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+01-02-2024 12:39:15.274Z;functions.process_lancamentos;  O PROGRAMA FOI ENCERRADO !!

@@ -1,0 +1,87 @@
+01-02-2024 12:20:27.783Z;functions.bot_text_art;      ____   
+01-02-2024 12:20:27.783Z;functions.bot_text_art;     [____]    
+01-02-2024 12:20:27.784Z;functions.bot_text_art;   |=]()()[=|  
+01-02-2024 12:20:27.784Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+01-02-2024 12:20:27.784Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+01-02-2024 12:20:27.784Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+01-02-2024 12:20:27.784Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+01-02-2024 12:20:27.784Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+01-02-2024 12:20:27.785Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+01-02-2024 12:20:27.785Z;functions.bot_text_art;     |_||_|                                                     
+01-02-2024 12:20:27.785Z;functions.bot_text_art;     | ||_|_   
+01-02-2024 12:20:27.785Z;functions.bot_text_art;   |___||___|  
+01-02-2024 12:20:27.785Z;functions.bot_text_art;               
+01-02-2024 12:20:27.788Z;functions.open_RM;  OPEN PROGRAM RM
+01-02-2024 12:20:34.360Z;functions.loggin_RM;  ENTRAR USER_NAME
+01-02-2024 12:20:35.189Z;functions.loggin_RM;  ENTRAR PASSWORD
+01-02-2024 12:20:35.908Z;functions.loggin_RM;  ENTRAR RM
+01-02-2024 12:21:05.768Z;functions.enter_coligada;  CLICK CONTEXTO
+01-02-2024 12:21:09.737Z;functions.enter_coligada;  CLICK COLIGADA 1
+01-02-2024 12:21:11.176Z;functions.enter_coligada;  CLICK AVANÇAR
+01-02-2024 12:21:12.802Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+01-02-2024 12:21:12.904Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+01-02-2024 12:21:14.237Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+01-02-2024 12:21:15.393Z;functions.enter_coligada;  CLICK CONCLUIR
+01-02-2024 12:21:26.111Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+01-02-2024 12:21:26.736Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+01-02-2024 12:21:27.830Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+01-02-2024 12:21:28.550Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+01-02-2024 12:21:33.925Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+01-02-2024 12:21:34.673Z;functions.waitForImage;  LANÇAMENTOS image found.
+01-02-2024 12:21:36.807Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+01-02-2024 12:21:52.158Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+01-02-2024 12:21:52.158Z;functions.data_filter;  DATA INICIO 07-02-2024
+01-02-2024 12:21:52.158Z;functions.data_filter;  DATA FIM 13-02-2024
+01-02-2024 12:21:52.158Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+01-02-2024 12:21:52.158Z;functions.data_filter;  QUARTA-FEIRA: 07-02-2024
+01-02-2024 12:21:52.158Z;functions.data_filter;  TERCA-FEIRA: 13-02-2024
+01-02-2024 12:21:56.153Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+01-02-2024 12:21:56.768Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+01-02-2024 12:21:58.658Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 07-02-2024
+01-02-2024 12:22:00.158Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 13-02-2024
+01-02-2024 12:22:00.799Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+01-02-2024 12:22:15.267Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+01-02-2024 12:22:16.091Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+01-02-2024 12:22:16.955Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+01-02-2024 12:22:17.856Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+01-02-2024 12:22:18.778Z;functions.desmark_filter;  ATUALIZA O FILTRO
+01-02-2024 12:22:48.934Z;functions.waitForImage;  FILTER CLEAN image not found.
+01-02-2024 12:22:48.934Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+01-02-2024 12:23:21.626Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 21 registros?
+01-02-2024 12:23:23.737Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+01-02-2024 12:23:24.455Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+01-02-2024 12:23:29.559Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+01-02-2024 12:23:32.266Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+01-02-2024 12:23:34.367Z;functions.desbloqueio;  SETA PARA DIREITA
+01-02-2024 12:23:37.277Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+01-02-2024 12:23:39.378Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+01-02-2024 12:23:50.737Z;functions.desbloqueio;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+01-02-2024 12:24:59.919Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'get_text'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 24, in <module>
+    desbloqueio()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 335, in desbloqueio
+    txt_msg = get_txt_msg.get_text()
+              ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_text'
+01-02-2024 12:25:01.451Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+01-02-2024 12:25:01.462Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+01-02-2024 12:25:01.464Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+01-02-2024 12:25:01.465Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+01-02-2024 12:25:01.466Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+01-02-2024 12:25:01.466Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+01-02-2024 12:25:01.517Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+01-02-2024 12:25:01.543Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+01-02-2024 12:25:01.544Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+01-02-2024 12:25:01.545Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+01-02-2024 12:25:01.545Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+01-02-2024 12:25:01.546Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+01-02-2024 12:25:01.547Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+01-02-2024 12:25:01.558Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+01-02-2024 12:25:01.563Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+01-02-2024 12:25:01.563Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+01-02-2024 12:25:01.563Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+01-02-2024 12:25:01.564Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]

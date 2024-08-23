@@ -1,0 +1,296 @@
+25-07-2024 03:01:10.406Z;functions.bot_text_art;      ____   
+25-07-2024 03:01:10.422Z;functions.bot_text_art;     [____]    
+25-07-2024 03:01:10.422Z;functions.bot_text_art;   |=]()()[=|  
+25-07-2024 03:01:10.422Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+25-07-2024 03:01:10.422Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-07-2024 03:01:10.422Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-07-2024 03:01:10.422Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-07-2024 03:01:10.422Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-07-2024 03:01:10.434Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-07-2024 03:01:10.434Z;functions.bot_text_art;     |_||_|                                                     
+25-07-2024 03:01:10.434Z;functions.bot_text_art;     | ||_|_   
+25-07-2024 03:01:10.434Z;functions.bot_text_art;   |___||___|  
+25-07-2024 03:01:10.434Z;functions.bot_text_art;               
+25-07-2024 03:01:10.441Z;functions.open_RM;  OPEN PROGRAM RM
+25-07-2024 03:01:34.746Z;functions.loggin_RM;  ENTRAR USER_NAME
+25-07-2024 03:01:39.470Z;functions.loggin_RM;  ENTRAR PASSWORD
+25-07-2024 03:01:41.061Z;functions.loggin_RM;  ENTRAR RM
+25-07-2024 03:05:05.842Z;functions.enter_coligada;  AGUARDANDO 1
+25-07-2024 03:05:07.279Z;functions.enter_coligada;  CLICK CONTEXTO
+25-07-2024 03:05:10.404Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+25-07-2024 03:05:15.170Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+25-07-2024 03:05:15.275Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+25-07-2024 03:05:17.529Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+25-07-2024 03:05:18.873Z;functions.enter_coligada;  CLICK CONCLUIR
+25-07-2024 03:05:39.045Z;functions.waitForImage;  TROCA COLIGADA image not found.
+25-07-2024 03:05:56.576Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+25-07-2024 03:05:57.560Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+25-07-2024 03:05:59.841Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+25-07-2024 03:06:02.693Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+25-07-2024 03:06:02.693Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 3
+25-07-2024 03:06:02.719Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO antes da remoção: None
+25-07-2024 03:06:02.720Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO antes da remoção: None
+25-07-2024 03:06:02.726Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO após a remoção: None
+25-07-2024 03:06:02.726Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO após a remoção: None
+25-07-2024 03:06:02.726Z;functions.obter_intervalo_data;  hoje -  2024-07-25 03:06:02.726804
+25-07-2024 03:06:02.726Z;functions.check_movimentacao_bancaria;  DATA INICIO 31-07-2024
+25-07-2024 03:06:02.726Z;functions.check_movimentacao_bancaria;  DATA FIM 06-08-2024
+25-07-2024 03:06:02.726Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+25-07-2024 03:06:08.404Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+25-07-2024 03:06:10.608Z;functions.waitForImage;  IMAGEM BORDERO image found.
+25-07-2024 03:06:12.729Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+25-07-2024 03:06:23.217Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+25-07-2024 03:06:23.951Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+25-07-2024 03:06:23.998Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+25-07-2024 03:06:28.208Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+25-07-2024 03:06:43.295Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:06:58.576Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:07:13.764Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:07:31.654Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO
+25-07-2024 03:07:51.920Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:08:07.201Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:08:22.482Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:08:54.123Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+25-07-2024 03:08:55.154Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-07-2024 03:08:57.216Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-07-2024 03:09:00.029Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-07-2024 03:09:08.623Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-07-2024 03:09:09.482Z;functions.waitForImage;  LANÇAMENTOS image found.
+25-07-2024 03:09:11.601Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+25-07-2024 03:09:27.060Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+25-07-2024 03:09:27.060Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-07-2024 03:09:27.060Z;functions.data_filter;  QUARTA-FEIRA: 31-07-2024
+25-07-2024 03:09:27.060Z;functions.data_filter;  TERCA-FEIRA: 06-08-2024
+25-07-2024 03:09:47.414Z;functions.data_filter;  FILTRO - REMESSA FERIAS/RESCISAO
+25-07-2024 03:09:48.404Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+25-07-2024 03:09:53.263Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 31-07-2024
+25-07-2024 03:09:57.876Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 06-08-2024
+25-07-2024 03:09:59.029Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+25-07-2024 03:10:04.033Z;functions.desmark_filter;  AGUARDANDO 1
+25-07-2024 03:10:06.935Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+25-07-2024 03:10:09.372Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+25-07-2024 03:10:11.748Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+25-07-2024 03:10:14.185Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-07-2024 03:10:16.920Z;functions.desmark_filter;  ATUALIZA O FILTRO
+25-07-2024 03:10:17.091Z;functions.waitForImage;  FILTER CLEAN image found.
+25-07-2024 03:10:19.200Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+25-07-2024 03:10:34.498Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:10:49.810Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:10:52.840Z;functions.tabela_vazia;  Texto extraido 1/16
+25-07-2024 03:10:52.841Z;functions.tabela_vazia;  Count 16
+25-07-2024 03:10:52.842Z;functions.tabela_vazia;  Type <class 'int'>
+25-07-2024 03:10:52.842Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+25-07-2024 03:10:54.279Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+25-07-2024 03:10:59.385Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+25-07-2024 03:11:04.603Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+25-07-2024 03:11:06.705Z;functions.desbloqueio;  SETA PARA DIREITA
+25-07-2024 03:11:13.528Z;functions.desbloqueio;  8 SETAS PARA BAIXO
+25-07-2024 03:11:15.631Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+25-07-2024 03:12:18.044Z;functions.exec_lancamentos;  CONTROL G
+25-07-2024 03:12:22.060Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+25-07-2024 03:12:23.404Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+25-07-2024 03:12:24.872Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+25-07-2024 03:12:27.990Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+25-07-2024 03:12:29.716Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+25-07-2024 03:12:30.997Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+25-07-2024 03:12:32.279Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+25-07-2024 03:12:32.279Z;functions.process_lancamentos;  AGUARDANDO 1
+25-07-2024 03:13:02.637Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+25-07-2024 03:13:04.638Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO COM ERRO.
+25-07-2024 03:13:14.429Z;functions.process_lancamentos;  Lançamento Ref. 980001: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980004: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980007: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980010: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980012: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980013: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980015: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980019: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980020: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980021: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980022: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980024: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980025: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 980027: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 981920: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 981946: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-980001:
+Campo 'IdConvenio' do lançamento '1-980001' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-980004:
+Campo 'IdConvenio' do lançamento '1-980004' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-980007:
+Campo 'IdConvenio' do lançamento '1-980007' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-980010:
+Campo 'IdConvenio' do lançamento '1-980010' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-980012:
+Campo 'IdConvenio' do lançamento '1-980012' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-980013:
+Campo 'IdConvenio' do lançamento '1-980013' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-980015:
+Campo 'IdConvenio' do lançamento '1-980015' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-980019:
+Campo 'IdConvenio' do lançamento '1-980019' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-980020:
+Campo 'IdConvenio' do lançamento '1-980020' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-980021:
+Campo 'IdConvenio' do lançamento '1-980021' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+25-07-2024 03:13:15.491Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+25-07-2024 03:13:18.685Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+25-07-2024 03:13:20.888Z;functions.waitForImage;  IMAGEM BORDERO image found.
+25-07-2024 03:13:22.995Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+25-07-2024 03:13:33.528Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+25-07-2024 03:13:34.278Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+25-07-2024 03:13:34.341Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+25-07-2024 03:13:38.553Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+25-07-2024 03:13:53.669Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:14:08.701Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:14:23.763Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:14:41.482Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO
+25-07-2024 03:15:01.575Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:15:16.638Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:15:31.700Z;functions.waitForImage;  FILTER CLEAN image not found.
+25-07-2024 03:16:03.091Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+25-07-2024 03:16:03.091Z;main.<module>;  BOT FÉRIAS/RESCISÃO FINALIZADO
+25-07-2024 03:16:05.794Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+25-07-2024 03:16:05.841Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+25-07-2024 03:16:05.856Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+25-07-2024 03:16:05.856Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+25-07-2024 03:16:05.856Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+25-07-2024 03:16:05.856Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+25-07-2024 03:16:06.091Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+25-07-2024 03:16:06.200Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+25-07-2024 03:16:06.200Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+25-07-2024 03:16:06.200Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+25-07-2024 03:16:06.200Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+25-07-2024 03:16:06.200Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+25-07-2024 03:16:06.200Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+25-07-2024 03:16:06.247Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+25-07-2024 03:16:06.263Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+25-07-2024 03:16:06.263Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+25-07-2024 03:16:06.263Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+25-07-2024 03:16:06.263Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+25-07-2024 03:16:09.153Z;functions.emailFinalizado;  Finalizado e-mail sent.
+25-07-2024 03:16:09.653Z;functions.encerra_prog;  RM ENCERRADO

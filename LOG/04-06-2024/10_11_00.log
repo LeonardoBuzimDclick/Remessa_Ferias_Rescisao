@@ -1,0 +1,34 @@
+04-06-2024 10:11:00.722Z;functions.bot_text_art;      ____   
+04-06-2024 10:11:00.724Z;functions.bot_text_art;     [____]    
+04-06-2024 10:11:00.724Z;functions.bot_text_art;   |=]()()[=|  
+04-06-2024 10:11:00.725Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+04-06-2024 10:11:00.725Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+04-06-2024 10:11:00.725Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+04-06-2024 10:11:00.728Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+04-06-2024 10:11:00.729Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+04-06-2024 10:11:00.735Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+04-06-2024 10:11:00.742Z;functions.bot_text_art;     |_||_|                                                     
+04-06-2024 10:11:00.762Z;functions.bot_text_art;     | ||_|_   
+04-06-2024 10:11:00.770Z;functions.bot_text_art;   |___||___|  
+04-06-2024 10:11:00.772Z;functions.bot_text_art;               
+04-06-2024 10:11:01.268Z;functions.open_RM;  OPEN PROGRAM RM
+04-06-2024 10:11:22.440Z;functions.loggin_RM;  ENTRAR USER_NAME
+04-06-2024 10:11:26.723Z;functions.loggin_RM;  ENTRAR PASSWORD
+04-06-2024 10:11:28.644Z;functions.loggin_RM;  ENTRAR RM
+04-06-2024 10:12:05.612Z;functions.enter_coligada;  CLICK CONTEXTO
+04-06-2024 10:12:10.932Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+04-06-2024 10:12:15.034Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+04-06-2024 10:12:15.265Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+04-06-2024 10:12:17.362Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+04-06-2024 10:12:18.956Z;functions.enter_coligada;  CLICK CONCLUIR
+04-06-2024 10:13:41.518Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+04-06-2024 10:13:42.612Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+04-06-2024 10:13:44.268Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+04-06-2024 10:13:45.205Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+04-06-2024 10:13:51.737Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+04-06-2024 10:13:54.018Z;functions.waitForImage;  IMAGEM BORDERO image found.
+04-06-2024 10:13:56.151Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+04-06-2024 10:14:06.643Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+04-06-2024 10:14:07.456Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+04-06-2024 10:14:07.522Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+04-06-2024 10:14:11.749Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE

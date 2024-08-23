@@ -1,0 +1,115 @@
+10-05-2024 20:00:18.016Z;functions.bot_text_art;      ____   
+10-05-2024 20:00:18.016Z;functions.bot_text_art;     [____]    
+10-05-2024 20:00:18.016Z;functions.bot_text_art;   |=]()()[=|  
+10-05-2024 20:00:18.016Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+10-05-2024 20:00:18.016Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+10-05-2024 20:00:18.016Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+10-05-2024 20:00:18.016Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+10-05-2024 20:00:18.016Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+10-05-2024 20:00:18.016Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+10-05-2024 20:00:18.016Z;functions.bot_text_art;     |_||_|                                                     
+10-05-2024 20:00:18.016Z;functions.bot_text_art;     | ||_|_   
+10-05-2024 20:00:18.016Z;functions.bot_text_art;   |___||___|  
+10-05-2024 20:00:18.016Z;functions.bot_text_art;               
+10-05-2024 20:00:18.032Z;functions.open_RM;  OPEN PROGRAM RM
+10-05-2024 20:00:27.359Z;functions.loggin_RM;  ENTRAR USER_NAME
+10-05-2024 20:00:30.188Z;functions.loggin_RM;  ENTRAR PASSWORD
+10-05-2024 20:00:30.844Z;functions.loggin_RM;  ENTRAR RM
+10-05-2024 20:00:51.360Z;functions.enter_coligada;  CLICK CONTEXTO
+10-05-2024 20:00:55.238Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+10-05-2024 20:00:57.626Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+10-05-2024 20:00:57.727Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+10-05-2024 20:00:58.658Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+10-05-2024 20:00:59.533Z;functions.enter_coligada;  CLICK CONCLUIR
+10-05-2024 20:01:10.016Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+10-05-2024 20:01:10.641Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+10-05-2024 20:01:11.673Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+10-05-2024 20:01:13.954Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+10-05-2024 20:01:19.330Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+10-05-2024 20:01:21.441Z;functions.waitForImage;  IMAGEM BORDERO image found.
+10-05-2024 20:01:23.568Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+10-05-2024 20:01:34.059Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+10-05-2024 20:01:34.610Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+10-05-2024 20:01:34.626Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+10-05-2024 20:01:38.830Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+10-05-2024 20:01:40.772Z;functions.waitForImage;  FILTER CLEAN image found.
+10-05-2024 20:01:42.889Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+10-05-2024 20:01:57.954Z;functions.waitForImage;  FILTER CLEAN image not found.
+10-05-2024 20:02:13.031Z;functions.waitForImage;  FILTER CLEAN image not found.
+10-05-2024 20:02:15.804Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+10-05-2024 20:02:17.016Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+10-05-2024 20:02:18.251Z;functions.movimentacao_bancaria;  HOVER FILTER
+10-05-2024 20:02:18.593Z;functions.movimentacao_bancaria;  CLICK FILTER
+10-05-2024 20:02:22.902Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+10-05-2024 20:02:25.003Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+10-05-2024 20:02:27.108Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+10-05-2024 20:02:29.209Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+10-05-2024 20:02:47.126Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE.
+10-05-2024 20:02:52.221Z;functions.waitForImage;  FILTER CLEAN image found.
+10-05-2024 20:02:54.341Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+10-05-2024 20:03:09.464Z;functions.waitForImage;  FILTER CLEAN image not found.
+10-05-2024 20:03:24.518Z;functions.waitForImage;  FILTER CLEAN image not found.
+10-05-2024 20:03:25.299Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+10-05-2024 20:03:26.548Z;functions.remessa_pagamento;  HOVER FILTER
+10-05-2024 20:03:26.836Z;functions.remessa_pagamento;  CLICK FILTER
+10-05-2024 20:03:31.148Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+10-05-2024 20:03:33.250Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+10-05-2024 20:03:35.357Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+10-05-2024 20:03:37.458Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+10-05-2024 20:03:55.376Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+10-05-2024 20:03:55.972Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+10-05-2024 20:03:56.923Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+10-05-2024 20:03:57.594Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+10-05-2024 20:04:03.127Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+10-05-2024 20:04:03.246Z;functions.waitForImage;  LANÇAMENTOS image found.
+10-05-2024 20:04:05.366Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+10-05-2024 20:04:20.717Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+10-05-2024 20:04:20.717Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 20
+10-05-2024 20:04:20.719Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO antes da remoção: None
+10-05-2024 20:04:20.719Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO antes da remoção: None
+10-05-2024 20:04:20.720Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO após a remoção: None
+10-05-2024 20:04:20.720Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO após a remoção: None
+10-05-2024 20:04:20.720Z;functions.obter_intervalo_data;  hoje -  2024-05-10 20:04:20.720788
+10-05-2024 20:04:20.720Z;functions.data_filter;  DATA INICIO 15-05-2024
+10-05-2024 20:04:20.721Z;functions.data_filter;  DATA FIM 21-05-2024
+10-05-2024 20:04:20.721Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+10-05-2024 20:04:20.721Z;functions.data_filter;  QUARTA-FEIRA: 15-05-2024
+10-05-2024 20:04:20.721Z;functions.data_filter;  TERCA-FEIRA: 21-05-2024
+10-05-2024 20:04:32.861Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+10-05-2024 20:04:36.564Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 15-05-2024
+10-05-2024 20:04:40.267Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 21-05-2024
+10-05-2024 20:04:41.110Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+10-05-2024 20:04:46.892Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+10-05-2024 20:04:47.688Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+10-05-2024 20:04:48.520Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+10-05-2024 20:04:49.368Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+10-05-2024 20:04:50.236Z;functions.desmark_filter;  ATUALIZA O FILTRO
+10-05-2024 20:04:50.383Z;functions.waitForImage;  FILTER CLEAN image found.
+10-05-2024 20:04:52.501Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+10-05-2024 20:05:07.642Z;functions.waitForImage;  FILTER CLEAN image not found.
+10-05-2024 20:05:22.678Z;functions.waitForImage;  FILTER CLEAN image not found.
+10-05-2024 20:05:23.565Z;functions.tabela_vazia;  Texto extraido 0/0
+10-05-2024 20:05:23.565Z;functions.tabela_vazia;  Count 0
+10-05-2024 20:05:23.565Z;functions.tabela_vazia;  Type <class 'int'>
+10-05-2024 20:05:25.580Z;functions.tabela_vazia;  SEM REMESSA DE FÉRIAS/RESCISÃO
+10-05-2024 20:05:27.580Z;main.<module>;  SEM REMESSA DE FÉRIAS/RESCISÃO
+10-05-2024 20:05:29.283Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+10-05-2024 20:05:29.298Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+10-05-2024 20:05:29.298Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+10-05-2024 20:05:29.298Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+10-05-2024 20:05:29.298Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+10-05-2024 20:05:29.298Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+10-05-2024 20:05:29.345Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+10-05-2024 20:05:29.376Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+10-05-2024 20:05:29.376Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+10-05-2024 20:05:29.376Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+10-05-2024 20:05:29.376Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+10-05-2024 20:05:29.376Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+10-05-2024 20:05:29.376Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+10-05-2024 20:05:29.376Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+10-05-2024 20:05:29.392Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+10-05-2024 20:05:29.392Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+10-05-2024 20:05:29.392Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+10-05-2024 20:05:29.392Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+10-05-2024 20:05:31.815Z;functions.emailFinalizado;  Finalizado e-mail sent.
+10-05-2024 20:05:31.910Z;functions.encerra_prog;  RM ENCERRADO

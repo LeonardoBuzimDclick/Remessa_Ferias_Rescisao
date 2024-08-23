@@ -1,0 +1,64 @@
+01-02-2024 11:56:11.819Z;functions.bot_text_art;      ____   
+01-02-2024 11:56:11.819Z;functions.bot_text_art;     [____]    
+01-02-2024 11:56:11.819Z;functions.bot_text_art;   |=]()()[=|  
+01-02-2024 11:56:11.819Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+01-02-2024 11:56:11.819Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+01-02-2024 11:56:11.819Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+01-02-2024 11:56:11.819Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+01-02-2024 11:56:11.819Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+01-02-2024 11:56:11.820Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+01-02-2024 11:56:11.820Z;functions.bot_text_art;     |_||_|                                                     
+01-02-2024 11:56:11.820Z;functions.bot_text_art;     | ||_|_   
+01-02-2024 11:56:11.820Z;functions.bot_text_art;   |___||___|  
+01-02-2024 11:56:11.820Z;functions.bot_text_art;               
+01-02-2024 11:56:11.823Z;functions.open_RM;  OPEN PROGRAM RM
+01-02-2024 11:56:18.048Z;functions.loggin_RM;  ENTRAR USER_NAME
+01-02-2024 11:56:18.876Z;functions.loggin_RM;  ENTRAR PASSWORD
+01-02-2024 11:56:19.532Z;functions.loggin_RM;  ENTRAR RM
+01-02-2024 11:56:49.549Z;functions.enter_coligada;  CLICK CONTEXTO
+01-02-2024 11:56:53.486Z;functions.enter_coligada;  CLICK COLIGADA 1
+01-02-2024 11:56:54.711Z;functions.enter_coligada;  CLICK AVANÇAR
+01-02-2024 11:56:56.297Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+01-02-2024 11:56:56.399Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+01-02-2024 11:56:57.706Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+01-02-2024 11:56:58.768Z;functions.enter_coligada;  CLICK CONCLUIR
+01-02-2024 11:57:10.376Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+01-02-2024 11:57:10.987Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+01-02-2024 11:57:12.079Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+01-02-2024 11:57:12.768Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+01-02-2024 11:57:18.237Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+01-02-2024 11:57:18.384Z;functions.waitForImage;  LANÇAMENTOS image found.
+01-02-2024 11:57:20.486Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+01-02-2024 11:57:36.142Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+01-02-2024 11:57:36.142Z;functions.data_filter;  DATA INICIO 07-02-2024
+01-02-2024 11:57:36.142Z;functions.data_filter;  DATA FIM 13-02-2024
+01-02-2024 11:57:36.142Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+01-02-2024 11:57:36.142Z;functions.data_filter;  QUARTA-FEIRA: 07-02-2024
+01-02-2024 11:57:36.142Z;functions.data_filter;  TERCA-FEIRA: 13-02-2024
+01-02-2024 11:57:40.033Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+01-02-2024 11:57:40.643Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+01-02-2024 11:57:42.502Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 07-02-2024
+01-02-2024 11:57:44.032Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 13-02-2024
+01-02-2024 11:57:44.676Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+01-02-2024 11:57:58.581Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+01-02-2024 11:57:59.418Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+01-02-2024 11:58:00.282Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+01-02-2024 11:58:01.180Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+01-02-2024 11:58:02.078Z;functions.desmark_filter;  ATUALIZA O FILTRO
+01-02-2024 11:58:32.217Z;functions.waitForImage;  FILTER CLEAN image not found.
+01-02-2024 11:58:32.218Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+01-02-2024 11:59:04.925Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 21 registros?
+01-02-2024 11:59:07.027Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+01-02-2024 11:59:07.737Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+01-02-2024 11:59:12.840Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+01-02-2024 11:59:15.549Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+01-02-2024 11:59:17.651Z;functions.desbloqueio;  SETA PARA DIREITA
+01-02-2024 11:59:20.561Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+01-02-2024 11:59:22.662Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+01-02-2024 11:59:34.268Z;functions.desbloqueio;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+01-02-2024 11:59:35.306Z;functions.desbloqueio;  MSG AQUI: Ocorreram falhas durante o processo de Desbloquear Alteração de lançamentos.
+Mais detalhes no Log do Processo.
+01-02-2024 11:59:37.307Z;functions.desbloqueio;  DESBLOQUEIO COM ERROR

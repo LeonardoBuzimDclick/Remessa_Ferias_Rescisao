@@ -1,0 +1,81 @@
+16-08-2024 04:15:01.800Z;functions.bot_text_art;      ____   
+16-08-2024 04:15:01.800Z;functions.bot_text_art;     [____]    
+16-08-2024 04:15:01.800Z;functions.bot_text_art;   |=]()()[=|  
+16-08-2024 04:15:01.800Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+16-08-2024 04:15:01.800Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+16-08-2024 04:15:01.800Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+16-08-2024 04:15:01.800Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+16-08-2024 04:15:01.800Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+16-08-2024 04:15:01.800Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+16-08-2024 04:15:01.800Z;functions.bot_text_art;     |_||_|                                                     
+16-08-2024 04:15:01.800Z;functions.bot_text_art;     | ||_|_   
+16-08-2024 04:15:01.800Z;functions.bot_text_art;   |___||___|  
+16-08-2024 04:15:01.800Z;functions.bot_text_art;               
+16-08-2024 04:15:01.800Z;functions.open_RM;  OPEN PROGRAM RM
+16-08-2024 04:15:14.269Z;functions.loggin_RM;  ENTRAR USER_NAME
+16-08-2024 04:15:17.505Z;functions.loggin_RM;  ENTRAR PASSWORD
+16-08-2024 04:15:18.581Z;functions.loggin_RM;  ENTRAR RM
+16-08-2024 04:18:35.221Z;functions.enter_coligada;  AGUARDANDO 1
+16-08-2024 04:18:36.111Z;functions.enter_coligada;  CLICK CONTEXTO
+16-08-2024 04:18:37.799Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+16-08-2024 04:18:40.299Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+16-08-2024 04:18:40.401Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+16-08-2024 04:18:41.644Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+16-08-2024 04:18:42.611Z;functions.enter_coligada;  CLICK CONCLUIR
+16-08-2024 04:19:02.689Z;functions.waitForImage;  TROCA COLIGADA image not found.
+16-08-2024 04:19:10.830Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+16-08-2024 04:19:11.611Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+16-08-2024 04:19:12.923Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+16-08-2024 04:19:15.392Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+16-08-2024 04:19:15.392Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 4
+16-08-2024 04:19:15.404Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO antes da remoção: None
+16-08-2024 04:19:15.404Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO antes da remoção: None
+16-08-2024 04:19:15.408Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO após a remoção: None
+16-08-2024 04:19:15.408Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO após a remoção: None
+16-08-2024 04:19:15.408Z;functions.obter_intervalo_data;  hoje -  2024-08-16 04:19:15.408343
+16-08-2024 04:19:15.408Z;functions.check_movimentacao_bancaria;  DATA INICIO 21-08-2024
+16-08-2024 04:19:15.409Z;functions.check_movimentacao_bancaria;  DATA FIM 27-08-2024
+16-08-2024 04:19:15.409Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+16-08-2024 04:19:19.986Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+16-08-2024 04:19:22.080Z;functions.waitForImage;  IMAGEM BORDERO image found.
+16-08-2024 04:19:24.212Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+16-08-2024 04:19:34.267Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+16-08-2024 04:22:36.329Z;functions.waitForImage;  IMAGEM BORDERO image found.
+16-08-2024 04:22:38.461Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+16-08-2024 04:22:48.563Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+16-08-2024 04:25:49.171Z;functions.waitForImage;  IMAGEM BORDERO image found.
+16-08-2024 04:25:51.304Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+16-08-2024 04:26:01.421Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+16-08-2024 04:29:02.279Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 16, in <module>
+    check_movimentacao_bancaria() ###
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 1373, in check_movimentacao_bancaria
+    movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 852, in movimentacao_bancaria
+    filtro_movimentacao.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+16-08-2024 04:29:02.904Z;functions.show_exception_and_exit;  PRINT SALVO
+16-08-2024 04:29:03.053Z;functions.show_exception_and_exit;  RM FECHADO
+16-08-2024 04:29:05.234Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+16-08-2024 04:29:05.250Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+16-08-2024 04:29:05.250Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+16-08-2024 04:29:05.250Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+16-08-2024 04:29:05.250Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+16-08-2024 04:29:05.250Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+16-08-2024 04:29:05.295Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+16-08-2024 04:29:05.326Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+16-08-2024 04:29:05.326Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+16-08-2024 04:29:05.326Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+16-08-2024 04:29:05.326Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+16-08-2024 04:29:05.326Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+16-08-2024 04:29:05.326Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+16-08-2024 04:29:05.342Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+16-08-2024 04:29:05.342Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+16-08-2024 04:29:05.342Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+16-08-2024 04:29:05.342Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+16-08-2024 04:29:05.342Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+16-08-2024 04:29:09.671Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+16-08-2024 04:29:09.671Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

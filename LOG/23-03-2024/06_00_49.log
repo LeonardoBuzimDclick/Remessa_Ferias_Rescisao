@@ -1,0 +1,70 @@
+23-03-2024 06:00:49.900Z;functions.bot_text_art;      ____   
+23-03-2024 06:00:49.900Z;functions.bot_text_art;     [____]    
+23-03-2024 06:00:49.900Z;functions.bot_text_art;   |=]()()[=|  
+23-03-2024 06:00:49.900Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+23-03-2024 06:00:49.900Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+23-03-2024 06:00:49.900Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+23-03-2024 06:00:49.900Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+23-03-2024 06:00:49.900Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+23-03-2024 06:00:49.900Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+23-03-2024 06:00:49.900Z;functions.bot_text_art;     |_||_|                                                     
+23-03-2024 06:00:49.900Z;functions.bot_text_art;     | ||_|_   
+23-03-2024 06:00:49.900Z;functions.bot_text_art;   |___||___|  
+23-03-2024 06:00:49.900Z;functions.bot_text_art;               
+23-03-2024 06:00:49.916Z;functions.open_RM;  OPEN PROGRAM RM
+23-03-2024 06:01:03.978Z;functions.loggin_RM;  ENTRAR USER_NAME
+23-03-2024 06:01:07.371Z;functions.loggin_RM;  ENTRAR PASSWORD
+23-03-2024 06:01:08.541Z;functions.loggin_RM;  ENTRAR RM
+23-03-2024 06:01:39.839Z;functions.enter_coligada;  CLICK CONTEXTO
+23-03-2024 06:01:44.744Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+23-03-2024 06:01:48.327Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+23-03-2024 06:01:48.441Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+23-03-2024 06:01:49.609Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+23-03-2024 06:01:50.727Z;functions.enter_coligada;  CLICK CONCLUIR
+23-03-2024 06:02:14.556Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+23-03-2024 06:02:15.384Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+23-03-2024 06:02:17.026Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+23-03-2024 06:02:19.728Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+23-03-2024 06:02:25.837Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+23-03-2024 06:02:31.946Z;functions.waitForImage;  IMAGEM BORDERO image found.
+23-03-2024 06:02:34.072Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+23-03-2024 06:02:54.352Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+23-03-2024 06:04:56.745Z;functions.waitForImage;  IMAGEM BORDERO image found.
+23-03-2024 06:04:58.870Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+23-03-2024 06:05:19.382Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+23-03-2024 06:07:21.712Z;functions.waitForImage;  IMAGEM BORDERO image found.
+23-03-2024 06:07:23.836Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+23-03-2024 06:07:44.665Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+23-03-2024 06:09:46.493Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 16, in <module>
+    check_movimentacao_bancaria() ###
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 1177, in check_movimentacao_bancaria
+    movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 683, in movimentacao_bancaria
+    filtro_movimentacao.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+23-03-2024 06:09:47.541Z;functions.show_exception_and_exit;  PRINT SALVO
+23-03-2024 06:09:47.850Z;functions.show_exception_and_exit;  RM FECHADO
+23-03-2024 06:09:53.883Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+23-03-2024 06:09:53.930Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+23-03-2024 06:09:53.945Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+23-03-2024 06:09:53.945Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+23-03-2024 06:09:53.945Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+23-03-2024 06:09:53.945Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+23-03-2024 06:09:54.195Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+23-03-2024 06:09:54.289Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+23-03-2024 06:09:54.305Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+23-03-2024 06:09:54.305Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+23-03-2024 06:09:54.305Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+23-03-2024 06:09:54.305Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+23-03-2024 06:09:54.305Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+23-03-2024 06:09:54.352Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+23-03-2024 06:09:54.352Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+23-03-2024 06:09:54.367Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+23-03-2024 06:09:54.367Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+23-03-2024 06:09:54.367Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+23-03-2024 06:10:02.306Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+23-03-2024 06:10:02.306Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

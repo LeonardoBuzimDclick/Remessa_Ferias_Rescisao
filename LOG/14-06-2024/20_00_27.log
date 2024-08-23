@@ -1,0 +1,44 @@
+14-06-2024 20:00:27.514Z;functions.bot_text_art;      ____   
+14-06-2024 20:00:27.514Z;functions.bot_text_art;     [____]    
+14-06-2024 20:00:27.514Z;functions.bot_text_art;   |=]()()[=|  
+14-06-2024 20:00:27.514Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+14-06-2024 20:00:27.514Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+14-06-2024 20:00:27.514Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+14-06-2024 20:00:27.514Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+14-06-2024 20:00:27.514Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+14-06-2024 20:00:27.529Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+14-06-2024 20:00:27.529Z;functions.bot_text_art;     |_||_|                                                     
+14-06-2024 20:00:27.529Z;functions.bot_text_art;     | ||_|_   
+14-06-2024 20:00:27.529Z;functions.bot_text_art;   |___||___|  
+14-06-2024 20:00:27.529Z;functions.bot_text_art;               
+14-06-2024 20:00:27.529Z;functions.open_RM;  OPEN PROGRAM RM
+14-06-2024 20:05:48.649Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'double_click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 14, in <module>
+    loggin_RM()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 86, in loggin_RM
+    user_rm.double_click()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'double_click'
+14-06-2024 20:05:49.857Z;functions.show_exception_and_exit;  PRINT SALVO
+14-06-2024 20:05:50.201Z;functions.show_exception_and_exit;  RM FECHADO
+14-06-2024 20:05:52.763Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+14-06-2024 20:05:52.810Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+14-06-2024 20:05:52.825Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+14-06-2024 20:05:52.825Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+14-06-2024 20:05:52.825Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+14-06-2024 20:05:52.825Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+14-06-2024 20:05:53.060Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+14-06-2024 20:05:53.169Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+14-06-2024 20:05:53.169Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+14-06-2024 20:05:53.169Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+14-06-2024 20:05:53.169Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+14-06-2024 20:05:53.169Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+14-06-2024 20:05:53.169Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+14-06-2024 20:05:53.216Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+14-06-2024 20:05:53.232Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+14-06-2024 20:05:53.232Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+14-06-2024 20:05:53.232Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+14-06-2024 20:05:53.232Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+14-06-2024 20:06:03.279Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+14-06-2024 20:06:03.279Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'double_click'

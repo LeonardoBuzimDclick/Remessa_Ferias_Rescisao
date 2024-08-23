@@ -1,0 +1,31 @@
+08-02-2024 13:52:08.326Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+08-02-2024 13:52:08.430Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 13:52:10.549Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 13:52:20.732Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-02-2024 13:52:21.323Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+08-02-2024 13:52:25.527Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+08-02-2024 13:52:25.602Z;functions.waitForImage;  FILTER CLEAN image found.
+08-02-2024 13:52:27.705Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+08-02-2024 13:52:37.911Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 13:52:48.193Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 13:52:51.012Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-02-2024 13:52:52.222Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+08-02-2024 13:52:53.500Z;functions.movimentacao_bancaria;  HOVER FILTER
+08-02-2024 13:52:53.800Z;functions.movimentacao_bancaria;  CLICK FILTER
+08-02-2024 13:52:58.107Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+08-02-2024 13:53:00.209Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+08-02-2024 13:53:02.311Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+08-02-2024 13:53:04.413Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+08-02-2024 13:53:22.382Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE.
+08-02-2024 13:53:27.443Z;functions.waitForImage;  FILTER CLEAN image found.
+08-02-2024 13:53:29.551Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+08-02-2024 13:53:39.787Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 13:53:50.041Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 13:53:50.859Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-02-2024 13:53:52.122Z;functions.remessa_pagamento;  HOVER FILTER
+08-02-2024 13:53:52.427Z;functions.remessa_pagamento;  CLICK FILTER
+08-02-2024 13:53:56.734Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+08-02-2024 13:53:58.835Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+08-02-2024 13:54:00.938Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+08-02-2024 13:54:03.039Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+08-02-2024 13:54:20.912Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO

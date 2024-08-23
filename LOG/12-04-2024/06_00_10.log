@@ -1,0 +1,48 @@
+12-04-2024 06:00:10.842Z;functions.bot_text_art;      ____   
+12-04-2024 06:00:10.842Z;functions.bot_text_art;     [____]    
+12-04-2024 06:00:10.842Z;functions.bot_text_art;   |=]()()[=|  
+12-04-2024 06:00:10.842Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+12-04-2024 06:00:10.842Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+12-04-2024 06:00:10.842Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+12-04-2024 06:00:10.842Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+12-04-2024 06:00:10.842Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+12-04-2024 06:00:10.842Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+12-04-2024 06:00:10.842Z;functions.bot_text_art;     |_||_|                                                     
+12-04-2024 06:00:10.842Z;functions.bot_text_art;     | ||_|_   
+12-04-2024 06:00:10.842Z;functions.bot_text_art;   |___||___|  
+12-04-2024 06:00:10.842Z;functions.bot_text_art;               
+12-04-2024 06:00:10.842Z;functions.open_RM;  OPEN PROGRAM RM
+12-04-2024 06:00:25.154Z;functions.loggin_RM;  ENTRAR USER_NAME
+12-04-2024 06:00:27.999Z;functions.loggin_RM;  ENTRAR PASSWORD
+12-04-2024 06:00:28.670Z;functions.loggin_RM;  ENTRAR RM
+12-04-2024 06:02:16.420Z;functions.enter_coligada;  CLICK CONTEXTO
+12-04-2024 06:02:33.982Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 15, in <module>
+    enter_coligada()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 106, in enter_coligada
+    click_alterar_contexto.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+12-04-2024 06:02:34.154Z;functions.show_exception_and_exit;  PRINT SALVO
+12-04-2024 06:02:34.248Z;functions.show_exception_and_exit;  RM FECHADO
+12-04-2024 06:02:35.920Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+12-04-2024 06:02:35.920Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+12-04-2024 06:02:35.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+12-04-2024 06:02:35.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+12-04-2024 06:02:35.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+12-04-2024 06:02:35.935Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+12-04-2024 06:02:35.982Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+12-04-2024 06:02:35.998Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+12-04-2024 06:02:35.998Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+12-04-2024 06:02:36.014Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+12-04-2024 06:02:36.014Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+12-04-2024 06:02:36.014Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+12-04-2024 06:02:36.014Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+12-04-2024 06:02:36.014Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+12-04-2024 06:02:36.029Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+12-04-2024 06:02:36.029Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+12-04-2024 06:02:36.029Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+12-04-2024 06:02:36.029Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+12-04-2024 06:02:39.248Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+12-04-2024 06:02:39.248Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

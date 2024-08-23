@@ -1,0 +1,67 @@
+31-01-2024 18:38:25.545Z;functions.bot_text_art;      ____   
+31-01-2024 18:38:25.545Z;functions.bot_text_art;     [____]    
+31-01-2024 18:38:25.545Z;functions.bot_text_art;   |=]()()[=|  
+31-01-2024 18:38:25.546Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+31-01-2024 18:38:25.546Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+31-01-2024 18:38:25.546Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+31-01-2024 18:38:25.546Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+31-01-2024 18:38:25.546Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+31-01-2024 18:38:25.548Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+31-01-2024 18:38:25.548Z;functions.bot_text_art;     |_||_|                                                     
+31-01-2024 18:38:25.548Z;functions.bot_text_art;     | ||_|_   
+31-01-2024 18:38:25.548Z;functions.bot_text_art;   |___||___|  
+31-01-2024 18:38:25.549Z;functions.bot_text_art;               
+31-01-2024 18:38:25.553Z;functions.open_RM;  OPEN PROGRAM RM
+31-01-2024 18:38:32.275Z;functions.loggin_RM;  ENTRAR USER_NAME
+31-01-2024 18:38:33.146Z;functions.loggin_RM;  ENTRAR PASSWORD
+31-01-2024 18:38:33.850Z;functions.loggin_RM;  ENTRAR RM
+31-01-2024 18:39:00.979Z;functions.enter_coligada;  CLICK CONTEXTO
+31-01-2024 18:39:04.948Z;functions.enter_coligada;  CLICK COLIGADA 1
+31-01-2024 18:39:06.355Z;functions.enter_coligada;  CLICK AVANÇAR
+31-01-2024 18:39:07.978Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+31-01-2024 18:39:08.080Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+31-01-2024 18:39:09.011Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+31-01-2024 18:39:09.915Z;functions.enter_coligada;  CLICK CONCLUIR
+31-01-2024 18:39:21.121Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+31-01-2024 18:39:21.761Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+31-01-2024 18:39:22.854Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+31-01-2024 18:39:23.541Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+31-01-2024 18:39:28.791Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+31-01-2024 18:39:33.441Z;functions.waitForImage;  LANÇAMENTOS image found.
+31-01-2024 18:39:35.548Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+31-01-2024 18:39:51.194Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+31-01-2024 18:39:51.195Z;functions.data_filter;  DATA INICIO 07-02-2024
+31-01-2024 18:39:51.195Z;functions.data_filter;  DATA FIM 13-02-2024
+31-01-2024 18:39:51.195Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+31-01-2024 18:39:51.196Z;functions.data_filter;  QUARTA-FEIRA: 07-02-2024
+31-01-2024 18:39:51.196Z;functions.data_filter;  TERCA-FEIRA: 13-02-2024
+31-01-2024 18:39:55.085Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+31-01-2024 18:39:55.698Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+31-01-2024 18:39:57.555Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 07-02-2024
+31-01-2024 18:39:59.068Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 13-02-2024
+31-01-2024 18:39:59.730Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+31-01-2024 18:40:13.136Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+31-01-2024 18:40:13.993Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+31-01-2024 18:40:14.840Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+31-01-2024 18:40:15.758Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+31-01-2024 18:40:16.678Z;functions.desmark_filter;  ATUALIZA O FILTRO
+31-01-2024 18:40:46.923Z;functions.waitForImage;  FILTER CLEAN image not found.
+31-01-2024 18:40:46.924Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+31-01-2024 18:41:19.651Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 21 registros?
+31-01-2024 18:41:21.752Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+31-01-2024 18:41:22.511Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+31-01-2024 18:41:27.614Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+31-01-2024 18:41:30.321Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+31-01-2024 18:41:32.423Z;functions.desbloqueio;  SETA PARA DIREITA
+31-01-2024 18:41:35.329Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+31-01-2024 18:41:37.431Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+31-01-2024 18:41:38.696Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 24, in <module>
+    desbloqueio()
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 328, in desbloqueio
+    time.sleep(5)
+KeyboardInterrupt

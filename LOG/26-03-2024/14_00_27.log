@@ -1,0 +1,60 @@
+26-03-2024 14:00:27.739Z;functions.bot_text_art;      ____   
+26-03-2024 14:00:27.739Z;functions.bot_text_art;     [____]    
+26-03-2024 14:00:27.739Z;functions.bot_text_art;   |=]()()[=|  
+26-03-2024 14:00:27.739Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+26-03-2024 14:00:27.739Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+26-03-2024 14:00:27.739Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+26-03-2024 14:00:27.739Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+26-03-2024 14:00:27.739Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+26-03-2024 14:00:27.739Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+26-03-2024 14:00:27.739Z;functions.bot_text_art;     |_||_|                                                     
+26-03-2024 14:00:27.739Z;functions.bot_text_art;     | ||_|_   
+26-03-2024 14:00:27.739Z;functions.bot_text_art;   |___||___|  
+26-03-2024 14:00:27.739Z;functions.bot_text_art;               
+26-03-2024 14:00:27.755Z;functions.open_RM;  OPEN PROGRAM RM
+26-03-2024 14:00:45.520Z;functions.loggin_RM;  ENTRAR USER_NAME
+26-03-2024 14:00:48.992Z;functions.loggin_RM;  ENTRAR PASSWORD
+26-03-2024 14:00:50.256Z;functions.loggin_RM;  ENTRAR RM
+26-03-2024 14:01:42.395Z;functions.enter_coligada;  CLICK CONTEXTO
+26-03-2024 14:01:47.770Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+26-03-2024 14:01:52.306Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+26-03-2024 14:01:52.409Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+26-03-2024 14:01:54.738Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+26-03-2024 14:01:56.488Z;functions.enter_coligada;  CLICK CONCLUIR
+26-03-2024 14:02:32.957Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+26-03-2024 14:02:33.800Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+26-03-2024 14:02:35.520Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+26-03-2024 14:02:38.286Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+26-03-2024 14:19:20.285Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 16, in <module>
+    check_movimentacao_bancaria() ###
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 1177, in check_movimentacao_bancaria
+    movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 644, in movimentacao_bancaria
+    movi_bancaria.click()
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+26-03-2024 14:19:20.629Z;functions.show_exception_and_exit;  PRINT SALVO
+26-03-2024 14:19:20.879Z;functions.show_exception_and_exit;  RM FECHADO
+26-03-2024 14:19:23.222Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+26-03-2024 14:19:23.254Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+26-03-2024 14:19:23.269Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+26-03-2024 14:19:23.269Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+26-03-2024 14:19:23.269Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+26-03-2024 14:19:23.285Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+26-03-2024 14:19:23.520Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+26-03-2024 14:19:23.629Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+26-03-2024 14:19:23.629Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+26-03-2024 14:19:23.644Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+26-03-2024 14:19:23.644Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+26-03-2024 14:19:23.644Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+26-03-2024 14:19:23.644Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+26-03-2024 14:19:23.691Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+26-03-2024 14:19:23.691Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+26-03-2024 14:19:23.691Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+26-03-2024 14:19:23.691Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+26-03-2024 14:19:23.707Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+26-03-2024 14:19:26.722Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+26-03-2024 14:19:26.722Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

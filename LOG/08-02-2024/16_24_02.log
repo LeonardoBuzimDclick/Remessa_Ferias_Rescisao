@@ -1,0 +1,189 @@
+08-02-2024 16:24:04.218Z;functions.bot_text_art;      ____   
+08-02-2024 16:24:04.218Z;functions.bot_text_art;     [____]    
+08-02-2024 16:24:04.218Z;functions.bot_text_art;   |=]()()[=|  
+08-02-2024 16:24:04.218Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+08-02-2024 16:24:04.218Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+08-02-2024 16:24:04.218Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+08-02-2024 16:24:04.218Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+08-02-2024 16:24:04.218Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+08-02-2024 16:24:04.218Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+08-02-2024 16:24:04.218Z;functions.bot_text_art;     |_||_|                                                     
+08-02-2024 16:24:04.218Z;functions.bot_text_art;     | ||_|_   
+08-02-2024 16:24:04.218Z;functions.bot_text_art;   |___||___|  
+08-02-2024 16:24:04.218Z;functions.bot_text_art;               
+08-02-2024 16:24:04.436Z;functions.open_RM;  OPEN PROGRAM RM
+08-02-2024 16:26:58.872Z;functions.loggin_RM;  ENTRAR USER_NAME
+08-02-2024 16:26:59.687Z;functions.loggin_RM;  ENTRAR PASSWORD
+08-02-2024 16:27:00.342Z;functions.loggin_RM;  ENTRAR RM
+08-02-2024 16:27:24.859Z;functions.enter_coligada;  CLICK CONTEXTO
+08-02-2024 16:27:28.764Z;functions.enter_coligada;  CLICK COLIGADA 1
+08-02-2024 16:27:30.108Z;functions.enter_coligada;  CLICK AVANÇAR
+08-02-2024 16:27:31.654Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+08-02-2024 16:27:31.756Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+08-02-2024 16:27:32.576Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+08-02-2024 16:27:33.357Z;functions.enter_coligada;  CLICK CONCLUIR
+08-02-2024 16:27:43.155Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+08-02-2024 16:27:43.764Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+08-02-2024 16:27:44.859Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+08-02-2024 16:27:45.576Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+08-02-2024 16:27:47.763Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+08-02-2024 16:27:47.869Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:27:49.970Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:27:51.238Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:27:51.238Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:27:51.238Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+08-02-2024 16:28:11.404Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:28:13.552Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:28:14.235Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:28:14.235Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:28:14.235Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 2
+08-02-2024 16:28:34.435Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:28:36.552Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:28:37.239Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:28:37.239Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:28:37.239Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 3
+08-02-2024 16:28:57.404Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:28:59.552Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:29:00.234Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:29:00.234Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:29:00.234Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 4
+08-02-2024 16:29:20.420Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:29:22.552Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:29:23.236Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:29:23.236Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:29:23.236Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 5
+08-02-2024 16:29:43.420Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:29:45.552Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:29:46.232Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:29:46.232Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:29:46.232Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 6
+08-02-2024 16:30:06.404Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:30:08.552Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:30:09.234Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:30:09.234Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:30:09.234Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 7
+08-02-2024 16:30:29.405Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:30:31.521Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:30:32.203Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:30:32.203Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:30:32.203Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 8
+08-02-2024 16:30:52.373Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:30:54.491Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:30:55.142Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:30:55.142Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:30:55.142Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 9
+08-02-2024 16:31:15.311Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:31:17.427Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:31:18.106Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:31:18.106Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:31:18.106Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 10
+08-02-2024 16:31:38.295Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:31:40.427Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:31:41.078Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:31:41.078Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:31:41.078Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 11
+08-02-2024 16:32:01.264Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:32:03.396Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:32:04.045Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+08-02-2024 16:32:04.045Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+08-02-2024 16:32:04.045Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 12
+08-02-2024 16:32:24.217Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 16:32:26.365Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 16:32:36.405Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-02-2024 16:32:37.014Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+08-02-2024 16:32:41.220Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+08-02-2024 16:32:42.999Z;functions.waitForImage;  FILTER CLEAN image found.
+08-02-2024 16:32:45.116Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+08-02-2024 16:32:55.342Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 16:33:05.530Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 16:33:08.327Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-02-2024 16:33:09.542Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+08-02-2024 16:33:10.795Z;functions.movimentacao_bancaria;  HOVER FILTER
+08-02-2024 16:33:11.076Z;functions.movimentacao_bancaria;  CLICK FILTER
+08-02-2024 16:33:15.385Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+08-02-2024 16:33:17.486Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+08-02-2024 16:33:19.592Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+08-02-2024 16:33:21.693Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+08-02-2024 16:33:39.703Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE.
+08-02-2024 16:33:44.796Z;functions.waitForImage;  FILTER CLEAN image found.
+08-02-2024 16:33:46.928Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+08-02-2024 16:33:57.123Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 16:34:07.311Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 16:34:08.108Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+08-02-2024 16:34:09.358Z;functions.remessa_pagamento;  HOVER FILTER
+08-02-2024 16:34:09.634Z;functions.remessa_pagamento;  CLICK FILTER
+08-02-2024 16:34:13.947Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+08-02-2024 16:34:16.048Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+08-02-2024 16:34:18.155Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+08-02-2024 16:34:20.257Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+08-02-2024 16:34:38.217Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+08-02-2024 16:34:38.828Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+08-02-2024 16:34:39.828Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+08-02-2024 16:34:40.545Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+08-02-2024 16:34:47.733Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+08-02-2024 16:34:47.811Z;functions.waitForImage;  LANÇAMENTOS image found.
+08-02-2024 16:34:49.927Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+08-02-2024 16:35:05.047Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+08-02-2024 16:35:05.047Z;functions.data_filter;  DATA INICIO 14-02-2024
+08-02-2024 16:35:05.047Z;functions.data_filter;  DATA FIM 20-02-2024
+08-02-2024 16:35:05.047Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+08-02-2024 16:35:05.047Z;functions.data_filter;  QUARTA-FEIRA: 14-02-2024
+08-02-2024 16:35:05.047Z;functions.data_filter;  TERCA-FEIRA: 20-02-2024
+08-02-2024 16:35:08.968Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+08-02-2024 16:35:09.577Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+08-02-2024 16:35:11.655Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 14-02-2024
+08-02-2024 16:35:13.405Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 20-02-2024
+08-02-2024 16:35:14.046Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+08-02-2024 16:35:19.828Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+08-02-2024 16:35:20.639Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+08-02-2024 16:35:21.483Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+08-02-2024 16:35:22.358Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+08-02-2024 16:35:23.234Z;functions.desmark_filter;  ATUALIZA O FILTRO
+08-02-2024 16:35:33.499Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 16:35:43.686Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 16:35:53.916Z;functions.waitForImage;  FILTER CLEAN image not found.
+08-02-2024 16:35:53.916Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+08-02-2024 16:36:26.611Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 2 registros?
+08-02-2024 16:36:28.718Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+08-02-2024 16:36:29.639Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+08-02-2024 16:36:34.743Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+08-02-2024 16:36:37.449Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+08-02-2024 16:36:39.551Z;functions.desbloqueio;  SETA PARA DIREITA
+08-02-2024 16:36:42.459Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+08-02-2024 16:36:44.561Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+08-02-2024 16:36:50.233Z;functions.desbloqueio;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+08-02-2024 16:36:51.436Z;functions.desbloqueio;  MSG AQUI: 
+08-02-2024 16:36:53.448Z;functions.desbloqueio;  DESBLOQUEIO COM SUCESSO
+08-02-2024 16:37:58.172Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 27, in <module>
+    desbloqueio()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 331, in desbloqueio
+    click_appear.click()
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+08-02-2024 16:37:58.749Z;functions.show_exception_and_exit;  PRINT SALVO
+08-02-2024 16:37:58.749Z;functions.show_exception_and_exit;  RM FECHADO
+08-02-2024 16:38:00.249Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+08-02-2024 16:38:00.249Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+08-02-2024 16:38:00.249Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+08-02-2024 16:38:00.249Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+08-02-2024 16:38:00.249Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+08-02-2024 16:38:00.249Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+08-02-2024 16:38:00.296Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+08-02-2024 16:38:00.327Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+08-02-2024 16:38:00.327Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+08-02-2024 16:38:00.327Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+08-02-2024 16:38:00.327Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+08-02-2024 16:38:00.327Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+08-02-2024 16:38:00.327Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+08-02-2024 16:38:00.343Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+08-02-2024 16:38:00.343Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+08-02-2024 16:38:00.343Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+08-02-2024 16:38:00.343Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+08-02-2024 16:38:00.343Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+08-02-2024 16:38:02.140Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+08-02-2024 16:38:02.140Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

@@ -1,0 +1,6 @@
+08-02-2024 17:18:47.927Z;teste.<module>;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+08-02-2024 17:18:48.958Z;teste.<module>;  MSG AQUI: Ocorreram falhas durante o processo de Desbloquear Alteração de lançamentos.
+Mais detalhes no Log do Processo.
+08-02-2024 17:18:48.959Z;teste.<module>;  DESBLOQUEIO COM ERROR
+08-02-2024 17:18:51.580Z;teste.<module>;  EVIDENCIAR ABA INFERIOR
+08-02-2024 17:18:53.682Z;teste.<module>;  FECHANDO ABA INFERIOR

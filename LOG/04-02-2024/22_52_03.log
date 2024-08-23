@@ -1,0 +1,9 @@
+04-02-2024 22:52:07.866Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+04-02-2024 22:52:08.604Z;functions.movimentacao_bancaria;  CLICK NO ICONE BORDERO DE PAGAMENTO
+04-02-2024 22:52:16.110Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+04-02-2024 22:52:46.413Z;functions.waitForImage;  FILTER CLEAN image not found.
+04-02-2024 22:52:54.270Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+04-02-2024 22:52:55.500Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+04-02-2024 22:52:56.798Z;functions.movimentacao_bancaria;  HOVER FILTER
+04-02-2024 22:52:57.089Z;functions.movimentacao_bancaria;  CLICK FILTER
+04-02-2024 22:53:01.396Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA

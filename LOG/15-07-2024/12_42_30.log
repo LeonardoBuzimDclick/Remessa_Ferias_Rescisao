@@ -1,0 +1,57 @@
+15-07-2024 12:42:30.407Z;functions.bot_text_art;      ____   
+15-07-2024 12:42:30.410Z;functions.bot_text_art;     [____]    
+15-07-2024 12:42:30.414Z;functions.bot_text_art;   |=]()()[=|  
+15-07-2024 12:42:30.416Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+15-07-2024 12:42:30.424Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+15-07-2024 12:42:30.427Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+15-07-2024 12:42:30.429Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+15-07-2024 12:42:30.438Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+15-07-2024 12:42:30.443Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+15-07-2024 12:42:30.448Z;functions.bot_text_art;     |_||_|                                                     
+15-07-2024 12:42:30.452Z;functions.bot_text_art;     | ||_|_   
+15-07-2024 12:42:30.452Z;functions.bot_text_art;   |___||___|  
+15-07-2024 12:42:30.457Z;functions.bot_text_art;               
+15-07-2024 12:42:30.485Z;functions.open_RM;  OPEN PROGRAM RM
+15-07-2024 12:42:53.309Z;functions.loggin_RM;  ENTRAR USER_NAME
+15-07-2024 12:42:57.249Z;functions.loggin_RM;  ENTRAR PASSWORD
+15-07-2024 12:42:58.872Z;functions.loggin_RM;  ENTRAR RM
+15-07-2024 12:42:58.872Z;functions.enter_coligada;  AGUARDANDO 1
+15-07-2024 12:43:39.731Z;functions.enter_coligada;  CLICK CONTEXTO
+15-07-2024 12:43:45.231Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+15-07-2024 12:43:50.440Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+15-07-2024 12:43:50.543Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+15-07-2024 12:43:52.918Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+15-07-2024 12:43:54.544Z;functions.enter_coligada;  CLICK CONCLUIR
+15-07-2024 12:44:15.027Z;functions.waitForImage;  TROCA COLIGADA image not found.
+15-07-2024 12:44:37.903Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+15-07-2024 12:44:39.012Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+15-07-2024 12:44:41.512Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+15-07-2024 12:44:44.481Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+15-07-2024 12:44:51.168Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+15-07-2024 12:44:52.121Z;functions.waitForImage;  LANÇAMENTOS image found.
+15-07-2024 12:44:54.273Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+15-07-2024 12:45:09.653Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+15-07-2024 12:45:09.653Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 12
+15-07-2024 12:45:09.653Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO antes da remoção: None
+15-07-2024 12:45:09.653Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO antes da remoção: None
+15-07-2024 12:45:09.674Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO após a remoção: None
+15-07-2024 12:45:09.675Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO após a remoção: None
+15-07-2024 12:45:09.677Z;functions.obter_intervalo_data;  hoje -  2024-07-15 12:45:09.676074
+15-07-2024 12:45:09.678Z;functions.data_filter;  DATA INICIO 17-07-2024
+15-07-2024 12:45:09.678Z;functions.data_filter;  DATA FIM 23-07-2024
+15-07-2024 12:45:09.679Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+15-07-2024 12:45:09.680Z;functions.data_filter;  QUARTA-FEIRA: 17-07-2024
+15-07-2024 12:45:09.681Z;functions.data_filter;  TERCA-FEIRA: 23-07-2024
+15-07-2024 12:45:30.487Z;functions.data_filter;  FILTRO - REMESSA FERIAS/RESCISAO
+15-07-2024 12:45:31.606Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+15-07-2024 12:45:36.871Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 17-07-2024
+15-07-2024 12:45:41.496Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 23-07-2024
+15-07-2024 12:45:42.731Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+15-07-2024 12:45:47.734Z;functions.desmark_filter;  AGUARDANDO 1
+15-07-2024 12:45:52.793Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+15-07-2024 12:45:55.574Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+15-07-2024 12:45:58.559Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+15-07-2024 12:46:01.856Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+15-07-2024 12:46:05.262Z;functions.desmark_filter;  ATUALIZA O FILTRO
+15-07-2024 12:46:05.466Z;functions.waitForImage;  FILTER CLEAN image found.
+15-07-2024 12:46:07.584Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO

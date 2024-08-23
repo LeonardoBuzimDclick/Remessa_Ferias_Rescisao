@@ -1,0 +1,123 @@
+05-06-2024 15:32:59.323Z;functions.bot_text_art;      ____   
+05-06-2024 15:32:59.323Z;functions.bot_text_art;     [____]    
+05-06-2024 15:32:59.323Z;functions.bot_text_art;   |=]()()[=|  
+05-06-2024 15:32:59.323Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+05-06-2024 15:32:59.323Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+05-06-2024 15:32:59.323Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+05-06-2024 15:32:59.323Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+05-06-2024 15:32:59.323Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+05-06-2024 15:32:59.323Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+05-06-2024 15:32:59.323Z;functions.bot_text_art;     |_||_|                                                     
+05-06-2024 15:32:59.323Z;functions.bot_text_art;     | ||_|_   
+05-06-2024 15:32:59.323Z;functions.bot_text_art;   |___||___|  
+05-06-2024 15:32:59.323Z;functions.bot_text_art;               
+05-06-2024 15:32:59.338Z;functions.open_RM;  OPEN PROGRAM RM
+05-06-2024 15:33:18.385Z;functions.loggin_RM;  ENTRAR USER_NAME
+05-06-2024 15:33:22.683Z;functions.loggin_RM;  ENTRAR PASSWORD
+05-06-2024 15:33:24.573Z;functions.loggin_RM;  ENTRAR RM
+05-06-2024 15:34:06.182Z;functions.enter_coligada;  CLICK CONTEXTO
+05-06-2024 15:34:11.682Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+05-06-2024 15:34:15.820Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+05-06-2024 15:34:15.968Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+05-06-2024 15:34:18.557Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+05-06-2024 15:34:20.119Z;functions.enter_coligada;  CLICK CONCLUIR
+05-06-2024 15:35:38.728Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+05-06-2024 15:35:39.869Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+05-06-2024 15:35:41.713Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+05-06-2024 15:35:42.744Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+05-06-2024 15:35:51.464Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+05-06-2024 15:35:53.744Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 15:35:55.877Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 15:35:58.338Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 15:35:58.338Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 15:35:58.338Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 1
+05-06-2024 15:36:09.697Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 15:36:11.818Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 15:36:12.791Z;functions.waitForImage;  LICENCAS EXCEDIDAS image found.
+05-06-2024 15:36:12.807Z;functions.movimentacao_bancaria;  LICENCAS EXCEDIDAS
+05-06-2024 15:36:12.807Z;functions.movimentacao_bancaria;  TENTANDO NOVAMENTE - 2
+05-06-2024 15:36:24.166Z;functions.waitForImage;  IMAGEM BORDERO image found.
+05-06-2024 15:36:26.316Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+05-06-2024 15:36:36.635Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+05-06-2024 15:36:37.482Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+05-06-2024 15:36:37.526Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+05-06-2024 15:36:41.736Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+05-06-2024 15:36:46.119Z;functions.waitForImage;  FILTER CLEAN image found.
+05-06-2024 15:36:48.252Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+05-06-2024 15:36:48.526Z;functions.waitForImage;  FILTER CLEAN image found.
+05-06-2024 15:36:50.659Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+05-06-2024 15:37:06.041Z;functions.waitForImage;  FILTER CLEAN image not found.
+05-06-2024 15:37:09.744Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+05-06-2024 15:37:10.994Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+05-06-2024 15:37:13.072Z;functions.movimentacao_bancaria;  HOVER FILTER
+05-06-2024 15:37:13.596Z;functions.movimentacao_bancaria;  CLICK FILTER
+05-06-2024 15:37:17.924Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+05-06-2024 15:37:20.026Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+05-06-2024 15:37:22.138Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+05-06-2024 15:37:24.241Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+05-06-2024 15:37:42.759Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE.
+05-06-2024 15:37:47.978Z;functions.waitForImage;  FILTER CLEAN image found.
+05-06-2024 15:37:50.096Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+05-06-2024 15:38:05.229Z;functions.waitForImage;  FILTER CLEAN image not found.
+05-06-2024 15:38:20.541Z;functions.waitForImage;  FILTER CLEAN image not found.
+05-06-2024 15:38:22.837Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+05-06-2024 15:38:25.369Z;functions.remessa_pagamento;  HOVER FILTER
+05-06-2024 15:38:26.022Z;functions.remessa_pagamento;  CLICK FILTER
+05-06-2024 15:38:30.357Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+05-06-2024 15:38:32.459Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+05-06-2024 15:38:34.577Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+05-06-2024 15:38:36.680Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+05-06-2024 15:38:41.171Z;functions.remessa_pagamento;  6 PASSOS PARA ESQUERDA NA TABELA <<
+05-06-2024 15:38:44.650Z;functions.check_user_bot;  Texto extraido 2/2
+05-06-2024 15:38:44.650Z;functions.check_user_bot;  Count 2
+05-06-2024 15:38:44.650Z;functions.check_user_bot;  Type <class 'int'>
+05-06-2024 15:38:46.762Z;functions.check_user_bot;  CHECK USER BOT 1
+05-06-2024 15:38:48.763Z;functions.check_user_bot;  dclick
+05-06-2024 15:38:51.479Z;functions.check_user_bot;  7 PASSOS PARA DIREITA NA TABELA >>
+05-06-2024 15:38:55.583Z;functions.check_user_bot;  341 / 3212 / 02675 - FERIAS/RESCISAO
+05-06-2024 15:38:55.583Z;functions.check_user_bot;  NOME FERIAS/RECISAO ENCONTRADO
+05-06-2024 15:38:57.799Z;functions.check_user_bot;  CLICK EM PROCESSOS
+05-06-2024 15:38:59.903Z;functions.check_user_bot;  APERTA PARA BAIXO 0
+05-06-2024 15:39:02.006Z;functions.check_user_bot;  APERTA PARA BAIXO 1
+05-06-2024 15:39:04.109Z;functions.check_user_bot;  APERTA PARA BAIXO 2
+05-06-2024 15:39:06.211Z;functions.check_user_bot;  APERTA ENTER
+05-06-2024 15:39:09.466Z;functions.check_user_bot;  CLICK EM REMESSAS DE PAGAMENTO
+05-06-2024 15:39:10.570Z;functions.check_user_bot;  APERTA TAB 0
+05-06-2024 15:39:11.672Z;functions.check_user_bot;  APERTA TAB 1
+05-06-2024 15:39:12.775Z;functions.check_user_bot;  APERTA TAB 2
+05-06-2024 15:39:23.525Z;functions.check_user_bot;  CLICK EM AVANÇAR
+05-06-2024 15:39:23.525Z;functions.show_exception_and_exit;  name 'inicio' is not defined
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 16, in <module>
+    check_movimentacao_bancaria() ###
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 1190, in check_movimentacao_bancaria
+    remessa_pagamento()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 836, in remessa_pagamento
+    check_user_bot()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 973, in check_user_bot
+    dt_inicial_format = inicio.strftime("%d-%m-%Y")
+                        ^^^^^^
+NameError: name 'inicio' is not defined
+05-06-2024 15:39:23.837Z;functions.show_exception_and_exit;  PRINT SALVO
+05-06-2024 15:39:24.400Z;functions.show_exception_and_exit;  RM FECHADO
+05-06-2024 15:39:27.353Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+05-06-2024 15:39:27.384Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+05-06-2024 15:39:27.384Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+05-06-2024 15:39:27.384Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+05-06-2024 15:39:27.384Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+05-06-2024 15:39:27.384Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+05-06-2024 15:39:27.587Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+05-06-2024 15:39:27.697Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+05-06-2024 15:39:27.697Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+05-06-2024 15:39:27.697Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+05-06-2024 15:39:27.697Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+05-06-2024 15:39:27.697Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+05-06-2024 15:39:27.697Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+05-06-2024 15:39:27.728Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+05-06-2024 15:39:27.744Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+05-06-2024 15:39:27.744Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+05-06-2024 15:39:27.744Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+05-06-2024 15:39:27.759Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+05-06-2024 15:39:31.587Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+05-06-2024 15:39:31.587Z;functions.show_exception_and_exit;  ERRO - <class 'NameError'> / name 'inicio' is not defined

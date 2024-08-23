@@ -1,0 +1,176 @@
+28-02-2024 20:54:26.403Z;functions.bot_text_art;      ____   
+28-02-2024 20:54:26.403Z;functions.bot_text_art;     [____]    
+28-02-2024 20:54:26.403Z;functions.bot_text_art;   |=]()()[=|  
+28-02-2024 20:54:26.403Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+28-02-2024 20:54:26.403Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+28-02-2024 20:54:26.403Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+28-02-2024 20:54:26.403Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+28-02-2024 20:54:26.403Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+28-02-2024 20:54:26.403Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+28-02-2024 20:54:26.403Z;functions.bot_text_art;     |_||_|                                                     
+28-02-2024 20:54:26.403Z;functions.bot_text_art;     | ||_|_   
+28-02-2024 20:54:26.403Z;functions.bot_text_art;   |___||___|  
+28-02-2024 20:54:26.403Z;functions.bot_text_art;               
+28-02-2024 20:54:26.418Z;functions.open_RM;  OPEN PROGRAM RM
+28-02-2024 20:54:39.016Z;functions.loggin_RM;  ENTRAR USER_NAME
+28-02-2024 20:54:40.435Z;functions.loggin_RM;  ENTRAR PASSWORD
+28-02-2024 20:54:41.562Z;functions.loggin_RM;  ENTRAR RM
+28-02-2024 20:55:14.658Z;functions.enter_coligada;  CLICK CONTEXTO
+28-02-2024 20:55:19.937Z;functions.enter_coligada;  CLICK COLIGADA 1
+28-02-2024 20:55:22.197Z;functions.enter_coligada;  CLICK AVANÇAR
+28-02-2024 20:55:24.592Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+28-02-2024 20:55:24.697Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+28-02-2024 20:55:25.968Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+28-02-2024 20:55:27.140Z;functions.enter_coligada;  CLICK CONCLUIR
+28-02-2024 20:55:52.312Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+28-02-2024 20:55:53.140Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+28-02-2024 20:55:54.827Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+28-02-2024 20:55:57.584Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+28-02-2024 20:56:03.675Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+28-02-2024 20:56:04.921Z;functions.waitForImage;  IMAGEM BORDERO image found.
+28-02-2024 20:56:07.046Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+28-02-2024 20:56:17.601Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+28-02-2024 20:56:18.309Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+28-02-2024 20:56:22.518Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+28-02-2024 20:56:26.936Z;functions.waitForImage;  FILTER CLEAN image found.
+28-02-2024 20:56:29.057Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+28-02-2024 20:56:29.364Z;functions.waitForImage;  FILTER CLEAN image found.
+28-02-2024 20:56:31.496Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+28-02-2024 20:56:41.643Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 20:56:44.967Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+28-02-2024 20:56:46.198Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+28-02-2024 20:56:48.077Z;functions.movimentacao_bancaria;  HOVER FILTER
+28-02-2024 20:56:48.538Z;functions.movimentacao_bancaria;  CLICK FILTER
+28-02-2024 20:56:52.867Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+28-02-2024 20:56:54.970Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+28-02-2024 20:56:57.084Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+28-02-2024 20:56:59.187Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+28-02-2024 20:57:18.717Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE.
+28-02-2024 20:57:24.031Z;functions.waitForImage;  FILTER CLEAN image found.
+28-02-2024 20:57:26.153Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+28-02-2024 20:57:36.253Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 20:57:46.352Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 20:57:47.936Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+28-02-2024 20:57:49.858Z;functions.remessa_pagamento;  HOVER FILTER
+28-02-2024 20:57:50.310Z;functions.remessa_pagamento;  CLICK FILTER
+28-02-2024 20:57:54.642Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+28-02-2024 20:57:56.745Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+28-02-2024 20:57:58.863Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+28-02-2024 20:58:00.967Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+28-02-2024 20:58:20.435Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+28-02-2024 20:58:21.264Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+28-02-2024 20:58:22.648Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+28-02-2024 20:58:23.592Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+28-02-2024 20:58:29.606Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+28-02-2024 20:58:30.748Z;functions.waitForImage;  LANÇAMENTOS image found.
+28-02-2024 20:58:32.871Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+28-02-2024 20:58:48.312Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+28-02-2024 20:58:48.312Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO antes da remoção: None
+28-02-2024 20:58:48.312Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO antes da remoção: None
+28-02-2024 20:58:48.312Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO após a remoção: None
+28-02-2024 20:58:48.328Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO após a remoção: None
+28-02-2024 20:58:48.328Z;functions.obter_intervalo_data;  hoje -  2024-02-28 20:58:48.328203
+28-02-2024 20:58:48.328Z;functions.data_filter;  DATA INICIO 06-03-2024
+28-02-2024 20:58:48.328Z;functions.data_filter;  DATA FIM 12-03-2024
+28-02-2024 20:58:48.328Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+28-02-2024 20:58:48.328Z;functions.data_filter;  QUARTA-FEIRA: 06-03-2024
+28-02-2024 20:58:48.328Z;functions.data_filter;  TERCA-FEIRA: 12-03-2024
+28-02-2024 20:58:52.404Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+28-02-2024 20:58:53.219Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+28-02-2024 20:58:55.810Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 06-03-2024
+28-02-2024 20:58:58.129Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 12-03-2024
+28-02-2024 20:58:59.013Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+28-02-2024 20:59:09.982Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+28-02-2024 20:59:11.731Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+28-02-2024 20:59:13.606Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+28-02-2024 20:59:15.633Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+28-02-2024 20:59:17.746Z;functions.desmark_filter;  ATUALIZA O FILTRO
+28-02-2024 20:59:27.994Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 20:59:38.234Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 20:59:48.544Z;functions.waitForImage;  FILTER CLEAN image not found.
+28-02-2024 20:59:48.544Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+28-02-2024 21:00:01.501Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 16 registros?
+28-02-2024 21:00:03.605Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+28-02-2024 21:00:04.809Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+28-02-2024 21:00:09.916Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+28-02-2024 21:00:15.137Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+28-02-2024 21:00:17.240Z;functions.desbloqueio;  SETA PARA DIREITA
+28-02-2024 21:00:24.666Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+28-02-2024 21:00:26.768Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+28-02-2024 21:01:29.179Z;functions.exec_lancamentos;  CONTROL G
+28-02-2024 21:01:32.981Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+28-02-2024 21:01:34.146Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+28-02-2024 21:01:35.324Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+28-02-2024 21:01:37.959Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+28-02-2024 21:01:39.042Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+28-02-2024 21:01:40.216Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+28-02-2024 21:01:41.292Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+28-02-2024 21:02:02.902Z;functions.waitForImage;  PRESS BUTTON OK image found.
+28-02-2024 21:02:04.907Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO FOI EXECUTADO COM SUCESSO.
+28-02-2024 21:02:14.628Z;functions.process_lancamentos;  Lançamento Ref. 921052: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921054: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921057: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921058: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921061: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921062: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921064: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921065: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921066: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921067: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921068: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921069: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921070: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921071: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921072: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 921073: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+28-02-2024 21:02:31.922Z;functions.proccess_bordero;  SELECIONAR INCLUSÃO DE BORDERO
+28-02-2024 21:02:34.401Z;functions.proccess_bordero;  CLICK EM CONVÊNIO TRÊS PONTINHOS
+28-02-2024 21:02:36.730Z;functions.proccess_bordero;  CLICK EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+28-02-2024 21:02:38.057Z;functions.proccess_bordero;  CLICK EM ID DO CONVÊNIO
+28-02-2024 21:02:40.163Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+28-02-2024 21:02:42.266Z;functions.proccess_bordero;  ESCREVE O ID 9 - FERIAS/RESCISÃO
+28-02-2024 21:02:44.368Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 9 - FERIAS/RESCISÃO
+28-02-2024 21:02:46.471Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 9 - FERIAS/RESCISÃO
+28-02-2024 21:02:49.357Z;functions.proccess_bordero;  CLICK EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+28-02-2024 21:03:02.069Z;functions.waitForImage;  PRESS BUTTON OK image found.
+28-02-2024 21:03:04.084Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+28-02-2024 21:03:06.917Z;functions.proccess_bordero;  CLICK EM FECHAR.
+28-02-2024 21:03:15.496Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+28-02-2024 21:03:15.807Z;functions.waitForImage;  IMAGEM BORDERO image found.
+28-02-2024 21:03:17.916Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+28-02-2024 21:03:28.331Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+28-02-2024 21:05:31.384Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 29, in <module>
+    movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 616, in movimentacao_bancaria
+    filtro_movimentacao.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+28-02-2024 21:05:31.744Z;functions.show_exception_and_exit;  PRINT SALVO
+28-02-2024 21:05:31.744Z;functions.show_exception_and_exit;  RM FECHADO
+28-02-2024 21:05:34.666Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+28-02-2024 21:05:34.697Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+28-02-2024 21:05:34.713Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+28-02-2024 21:05:34.713Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+28-02-2024 21:05:34.713Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+28-02-2024 21:05:34.713Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+28-02-2024 21:05:34.979Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+28-02-2024 21:05:35.088Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+28-02-2024 21:05:35.103Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+28-02-2024 21:05:35.103Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+28-02-2024 21:05:35.103Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+28-02-2024 21:05:35.103Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+28-02-2024 21:05:35.103Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+28-02-2024 21:05:35.150Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+28-02-2024 21:05:35.166Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+28-02-2024 21:05:35.166Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+28-02-2024 21:05:35.166Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+28-02-2024 21:05:35.166Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
+28-02-2024 21:05:38.775Z;functions.show_exception_and_exit;  EMAIL EXCEÇÃO ENVIADO
+28-02-2024 21:05:38.775Z;functions.show_exception_and_exit;  ERRO - <class 'AttributeError'> / 'NoneType' object has no attribute 'click'

@@ -1,0 +1,18 @@
+04-02-2024 23:44:04.100Z;teste.<module>;  bot = pyperclip.paste()
+            logging.debug(f'{bot}')
+
+            # Usando expressão regular para encontrar o nome PIX
+            padrao = r'\bFERIAS\b'
+            match = re.search(padrao, bot)
+
+            if match:
+                inicio_ferias = match.start()
+                nome_ferias = bot[:inicio_ferias].strip()
+                logging.debug("Nome FERIAS/RECISAO:", nome_ferias)
+                pyautogui.hotkey('ctrl', 'space')
+                count = 11
+                time.sleep(2)
+                pyautogui.hotkey('Ctrl', 'p')
+                logging.debug('CLICK EM PROCESSOS')
+                time.sleep(2)
+04-02-2024 23:44:06.380Z;teste.<module>;  CLICK EM PROCESSOS

@@ -1,0 +1,33 @@
+28-06-2024 16:10:13.588Z;functions.bot_text_art;      ____   
+28-06-2024 16:10:13.588Z;functions.bot_text_art;     [____]    
+28-06-2024 16:10:13.588Z;functions.bot_text_art;   |=]()()[=|  
+28-06-2024 16:10:13.588Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+28-06-2024 16:10:13.588Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+28-06-2024 16:10:13.588Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+28-06-2024 16:10:13.588Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+28-06-2024 16:10:13.588Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+28-06-2024 16:10:13.588Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+28-06-2024 16:10:13.588Z;functions.bot_text_art;     |_||_|                                                     
+28-06-2024 16:10:13.588Z;functions.bot_text_art;     | ||_|_   
+28-06-2024 16:10:13.588Z;functions.bot_text_art;   |___||___|  
+28-06-2024 16:10:13.588Z;functions.bot_text_art;               
+28-06-2024 16:10:13.604Z;functions.open_RM;  OPEN PROGRAM RM
+28-06-2024 16:10:33.760Z;functions.loggin_RM;  ENTRAR USER_NAME
+28-06-2024 16:10:37.401Z;functions.loggin_RM;  ENTRAR PASSWORD
+28-06-2024 16:10:38.807Z;functions.loggin_RM;  ENTRAR RM
+28-06-2024 16:13:42.146Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO
+28-06-2024 16:14:13.807Z;functions.loggin_RM;  FILTRO 2 NÃO ENCONTRADO DE INICIO
+28-06-2024 16:17:15.019Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO
+28-06-2024 16:17:46.578Z;functions.loggin_RM;  FILTRO 2 NÃO ENCONTRADO DE INICIO
+28-06-2024 16:20:49.818Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO
+28-06-2024 16:21:21.294Z;functions.loggin_RM;  FILTRO 2 NÃO ENCONTRADO DE INICIO
+28-06-2024 16:21:21.294Z;functions.enter_coligada;  AGUARDANDO 1
+28-06-2024 16:21:22.909Z;functions.enter_coligada;  CLICK CONTEXTO
+28-06-2024 16:21:38.639Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 15, in <module>
+    enter_coligada()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 170, in enter_coligada
+    click_alterar_contexto.click()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'

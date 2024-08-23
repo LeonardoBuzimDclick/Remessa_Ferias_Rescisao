@@ -1,0 +1,145 @@
+15-04-2024 06:00:11.236Z;functions.bot_text_art;      ____   
+15-04-2024 06:00:11.236Z;functions.bot_text_art;     [____]    
+15-04-2024 06:00:11.236Z;functions.bot_text_art;   |=]()()[=|  
+15-04-2024 06:00:11.236Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+15-04-2024 06:00:11.236Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+15-04-2024 06:00:11.236Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+15-04-2024 06:00:11.236Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+15-04-2024 06:00:11.236Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+15-04-2024 06:00:11.236Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+15-04-2024 06:00:11.236Z;functions.bot_text_art;     |_||_|                                                     
+15-04-2024 06:00:11.236Z;functions.bot_text_art;     | ||_|_   
+15-04-2024 06:00:11.236Z;functions.bot_text_art;   |___||___|  
+15-04-2024 06:00:11.236Z;functions.bot_text_art;               
+15-04-2024 06:00:11.470Z;functions.open_RM;  OPEN PROGRAM RM
+15-04-2024 06:00:22.542Z;functions.loggin_RM;  ENTRAR USER_NAME
+15-04-2024 06:00:25.437Z;functions.loggin_RM;  ENTRAR PASSWORD
+15-04-2024 06:00:26.158Z;functions.loggin_RM;  ENTRAR RM
+15-04-2024 06:01:01.986Z;functions.enter_coligada;  CLICK CONTEXTO
+15-04-2024 06:01:05.922Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+15-04-2024 06:01:08.306Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+15-04-2024 06:01:08.407Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+15-04-2024 06:01:09.578Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+15-04-2024 06:01:10.397Z;functions.enter_coligada;  CLICK CONCLUIR
+15-04-2024 06:01:19.672Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+15-04-2024 06:01:20.297Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+15-04-2024 06:01:21.369Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+15-04-2024 06:01:22.078Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+15-04-2024 06:01:24.658Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+15-04-2024 06:01:26.832Z;functions.waitForImage;  IMAGEM BORDERO image found.
+15-04-2024 06:01:28.950Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+15-04-2024 06:01:39.017Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+15-04-2024 06:01:39.579Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+15-04-2024 06:01:39.611Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+15-04-2024 06:01:43.815Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+15-04-2024 06:01:45.823Z;functions.waitForImage;  FILTER CLEAN image found.
+15-04-2024 06:01:47.953Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+15-04-2024 06:02:03.023Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:02:18.178Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:02:36.303Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO
+15-04-2024 06:02:56.375Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:03:11.510Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:03:26.643Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:03:58.876Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+15-04-2024 06:03:59.497Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+15-04-2024 06:04:00.442Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+15-04-2024 06:04:01.141Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+15-04-2024 06:04:05.922Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+15-04-2024 06:04:06.064Z;functions.waitForImage;  LANÇAMENTOS image found.
+15-04-2024 06:04:08.192Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+15-04-2024 06:04:23.656Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+15-04-2024 06:04:23.656Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 6
+15-04-2024 06:04:23.672Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO antes da remoção: None
+15-04-2024 06:04:23.672Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO antes da remoção: None
+15-04-2024 06:04:23.672Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO após a remoção: None
+15-04-2024 06:04:23.672Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO após a remoção: None
+15-04-2024 06:04:23.672Z;functions.obter_intervalo_data;  hoje -  2024-04-15 06:04:23.672593
+15-04-2024 06:04:23.672Z;functions.data_filter;  DATA INICIO 17-04-2024
+15-04-2024 06:04:23.672Z;functions.data_filter;  DATA FIM 23-04-2024
+15-04-2024 06:04:23.672Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+15-04-2024 06:04:23.672Z;functions.data_filter;  QUARTA-FEIRA: 17-04-2024
+15-04-2024 06:04:23.672Z;functions.data_filter;  TERCA-FEIRA: 23-04-2024
+15-04-2024 06:04:36.000Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+15-04-2024 06:04:39.797Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 17-04-2024
+15-04-2024 06:04:43.329Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 23-04-2024
+15-04-2024 06:04:43.969Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+15-04-2024 06:04:49.781Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+15-04-2024 06:04:50.629Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+15-04-2024 06:04:51.507Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+15-04-2024 06:04:52.407Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+15-04-2024 06:04:53.312Z;functions.desmark_filter;  ATUALIZA O FILTRO
+15-04-2024 06:04:53.451Z;functions.waitForImage;  FILTER CLEAN image found.
+15-04-2024 06:04:55.576Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+15-04-2024 06:05:10.643Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:05:25.783Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:05:26.781Z;functions.tabela_vazia;  Texto extraido 1/2
+15-04-2024 06:05:26.781Z;functions.tabela_vazia;  Count 2
+15-04-2024 06:05:26.781Z;functions.tabela_vazia;  Type <class 'int'>
+15-04-2024 06:05:26.781Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+15-04-2024 06:05:27.532Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+15-04-2024 06:05:32.635Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+15-04-2024 06:05:37.845Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+15-04-2024 06:05:39.946Z;functions.desbloqueio;  SETA PARA DIREITA
+15-04-2024 06:05:47.358Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+15-04-2024 06:05:49.460Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+15-04-2024 06:06:51.865Z;functions.exec_lancamentos;  CONTROL G
+15-04-2024 06:06:53.734Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+15-04-2024 06:06:54.466Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+15-04-2024 06:06:55.266Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+15-04-2024 06:06:56.692Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+15-04-2024 06:06:57.391Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+15-04-2024 06:06:58.140Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+15-04-2024 06:06:58.859Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+15-04-2024 06:07:32.100Z;functions.waitForImage;  PRESS BUTTON OK image not found.
+15-04-2024 06:07:34.109Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO COM ERRO.
+15-04-2024 06:07:43.095Z;functions.process_lancamentos;  Lançamento Ref. 940217: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 940719: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Não foi possível alterar o lançamento 1-940217:
+Campo 'IdConvenio' do lançamento '1-940217' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+Não foi possível alterar o lançamento 1-940719:
+Campo 'IdConvenio' do lançamento '1-940719' não pode ser alterado em:
+- Lançamentos de Borderô de Pagamento
+
+
+
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.ConsisteCamposAlterados(TContext context)
+   at RM.Fin.Lan.Alteracao.FinLanMasterSbc`1.DoValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberSimple`1.ValidateContext(TContext context)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.DoPrepareSubscriber(List`1 contextList, Boolean initializeSubscriber)
+   at RM.Lib.Subscriber.RMSSubscriberController`2.ExecuteOneLog(List`1 listParam, Int32 lenPackageCxt, Object ownerData)
+*********************************************
+
+
+
+
+
+
+15-04-2024 06:07:45.922Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+15-04-2024 06:07:48.048Z;functions.waitForImage;  IMAGEM BORDERO image found.
+15-04-2024 06:07:50.158Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+15-04-2024 06:08:00.672Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+15-04-2024 06:08:01.250Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+15-04-2024 06:08:01.265Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+15-04-2024 06:08:05.471Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+15-04-2024 06:08:06.227Z;functions.waitForImage;  FILTER CLEAN image found.
+15-04-2024 06:08:08.358Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+15-04-2024 06:08:23.399Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:08:38.497Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:08:56.703Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO
+15-04-2024 06:09:16.765Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:09:31.891Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:09:46.969Z;functions.waitForImage;  FILTER CLEAN image not found.
+15-04-2024 06:10:19.266Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+15-04-2024 06:10:19.349Z;functions.encerra_prog;  RM ENCERRADO

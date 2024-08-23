@@ -1,0 +1,4 @@
+08-02-2024 13:57:01.554Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+08-02-2024 13:57:01.650Z;functions.waitForImage;  IMAGEM BORDERO image found.
+08-02-2024 13:57:03.778Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+08-02-2024 13:57:13.963Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.

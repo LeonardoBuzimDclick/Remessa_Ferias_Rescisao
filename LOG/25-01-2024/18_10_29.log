@@ -1,0 +1,76 @@
+25-01-2024 18:10:29.342Z;functions.bot_text_art;      ____   
+25-01-2024 18:10:29.342Z;functions.bot_text_art;     [____]    
+25-01-2024 18:10:29.343Z;functions.bot_text_art;   |=]()()[=|  
+25-01-2024 18:10:29.343Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+25-01-2024 18:10:29.343Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+25-01-2024 18:10:29.344Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+25-01-2024 18:10:29.344Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+25-01-2024 18:10:29.344Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+25-01-2024 18:10:29.345Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+25-01-2024 18:10:29.345Z;functions.bot_text_art;     |_||_|                                                     
+25-01-2024 18:10:29.346Z;functions.bot_text_art;     | ||_|_   
+25-01-2024 18:10:29.346Z;functions.bot_text_art;   |___||___|  
+25-01-2024 18:10:29.346Z;functions.bot_text_art;               
+25-01-2024 18:10:29.350Z;functions.open_RM;  OPEN PROGRAM RM
+25-01-2024 18:10:36.098Z;functions.loggin_RM;  ENTRAR USER_NAME
+25-01-2024 18:10:36.973Z;functions.loggin_RM;  ENTRAR PASSWORD
+25-01-2024 18:10:37.703Z;functions.loggin_RM;  ENTRAR RM
+25-01-2024 18:11:09.930Z;functions.enter_coligada;  CLICK CONTEXTO
+25-01-2024 18:11:13.930Z;functions.enter_coligada;  CLICK COLIGADA 1
+25-01-2024 18:11:15.369Z;functions.enter_coligada;  CLICK AVANÇAR
+25-01-2024 18:11:17.057Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+25-01-2024 18:11:17.158Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+25-01-2024 18:11:18.306Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+25-01-2024 18:11:19.148Z;functions.enter_coligada;  CLICK CONCLUIR
+25-01-2024 18:11:29.854Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+25-01-2024 18:11:30.494Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+25-01-2024 18:11:31.649Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+25-01-2024 18:11:33.962Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+25-01-2024 18:11:38.649Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+25-01-2024 18:11:38.751Z;functions.waitForImage;  LANÇAMENTOS image found.
+25-01-2024 18:11:40.876Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+25-01-2024 18:11:56.086Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+25-01-2024 18:11:56.086Z;functions.data_filter;  DATA INICIO 31-01-2024
+25-01-2024 18:11:56.087Z;functions.data_filter;  DATA FIM 06-02-2024
+25-01-2024 18:11:56.087Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+25-01-2024 18:11:56.087Z;functions.data_filter;  QUARTA-FEIRA: 31-01-2024
+25-01-2024 18:11:56.088Z;functions.data_filter;  TERCA-FEIRA: 06-02-2024
+25-01-2024 18:11:59.992Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+25-01-2024 18:12:00.681Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+25-01-2024 18:12:02.536Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 31-01-2024
+25-01-2024 18:12:04.086Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 06-02-2024
+25-01-2024 18:12:04.743Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+25-01-2024 18:12:10.555Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+25-01-2024 18:12:11.462Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+25-01-2024 18:12:12.367Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+25-01-2024 18:12:13.337Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+25-01-2024 18:12:14.398Z;functions.desmark_filter;  ATUALIZA O FILTRO
+25-01-2024 18:12:15.628Z;functions.show_exception_and_exit;  
+Traceback (most recent call last):
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 17, in <module>
+    result = tabela_vazia()
+             ^^^^^^^^^^^^^^
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 279, in tabela_vazia
+    filter_clean()
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 237, in filter_clean
+    clear_filter_x = waitForImage(image = filter_clear, timeout=60, name = 'FILTER CLEAN')
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 886, in waitForImage
+    location = pyautogui.locateOnScreen(image=image, confidence=0.9)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\pyautogui\__init__.py", line 172, in wrapper
+    return wrappedFunction(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\pyautogui\__init__.py", line 210, in locateOnScreen
+    return pyscreeze.locateOnScreen(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\pyscreeze\__init__.py", line 375, in locateOnScreen
+    screenshotIm = screenshot(
+                   ^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\pyscreeze\__init__.py", line 512, in _screenshot_win32
+    im = ImageGrab.grab()
+         ^^^^^^^^^^^^^^^^
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\PIL\ImageGrab.py", line 47, in grab
+    offset, size, data = Image.core.grabscreen_win32(
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

@@ -1,0 +1,133 @@
+12-06-2024 12:04:57.758Z;functions.bot_text_art;      ____   
+12-06-2024 12:04:57.758Z;functions.bot_text_art;     [____]    
+12-06-2024 12:04:57.758Z;functions.bot_text_art;   |=]()()[=|  
+12-06-2024 12:04:57.758Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+12-06-2024 12:04:57.758Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+12-06-2024 12:04:57.758Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+12-06-2024 12:04:57.758Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+12-06-2024 12:04:57.758Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+12-06-2024 12:04:57.758Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+12-06-2024 12:04:57.758Z;functions.bot_text_art;     |_||_|                                                     
+12-06-2024 12:04:57.758Z;functions.bot_text_art;     | ||_|_   
+12-06-2024 12:04:57.758Z;functions.bot_text_art;   |___||___|  
+12-06-2024 12:04:57.758Z;functions.bot_text_art;               
+12-06-2024 12:04:57.774Z;functions.open_RM;  OPEN PROGRAM RM
+12-06-2024 12:05:13.352Z;functions.loggin_RM;  ENTRAR USER_NAME
+12-06-2024 12:05:17.041Z;functions.loggin_RM;  ENTRAR PASSWORD
+12-06-2024 12:05:18.446Z;functions.loggin_RM;  ENTRAR RM
+12-06-2024 12:08:19.840Z;functions.loggin_RM;  FILTRO NÃO ENCONTRADO
+12-06-2024 12:08:19.840Z;functions.enter_coligada;  AGUARDANDO 1
+12-06-2024 12:08:21.133Z;functions.enter_coligada;  CLICK CONTEXTO
+12-06-2024 12:08:24.039Z;functions.enter_coligada;  CLICK ALTERAR MODULO DO CONTEXTO
+12-06-2024 12:08:28.774Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+12-06-2024 12:08:28.879Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+12-06-2024 12:08:31.258Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+12-06-2024 12:08:32.602Z;functions.enter_coligada;  CLICK CONCLUIR
+12-06-2024 12:09:36.179Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+12-06-2024 12:09:37.164Z;functions.check_movimentacao_bancaria;  CLICK - TOTVS - LINHA RM
+12-06-2024 12:09:38.883Z;functions.check_movimentacao_bancaria;  CLICK - BACK OFFICE
+12-06-2024 12:09:41.602Z;functions.check_movimentacao_bancaria;  CLICK - GESTAO FINANCEIRA
+12-06-2024 12:09:41.602Z;functions.obter_intervalo_data;  VERIFICANDO A HORA ATUAL 12
+12-06-2024 12:09:41.627Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO antes da remoção: None
+12-06-2024 12:09:41.627Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO antes da remoção: None
+12-06-2024 12:09:41.633Z;functions.obter_intervalo_data;  Data Inicial FERIAS/RESCISAO após a remoção: None
+12-06-2024 12:09:41.633Z;functions.obter_intervalo_data;  Data Final FERIAS/RESCISAO após a remoção: None
+12-06-2024 12:09:41.633Z;functions.obter_intervalo_data;  hoje -  2024-06-12 12:09:41.633001
+12-06-2024 12:09:41.633Z;functions.check_movimentacao_bancaria;  DATA INICIO 19-06-2024
+12-06-2024 12:09:41.633Z;functions.check_movimentacao_bancaria;  DATA FIM 25-06-2024
+12-06-2024 12:09:41.633Z;functions.movimentacao_bancaria;  AGUARDANDO 1
+12-06-2024 12:09:47.851Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+12-06-2024 12:09:50.101Z;functions.waitForImage;  IMAGEM BORDERO image found.
+12-06-2024 12:09:52.236Z;functions.movimentacao_bancaria;  IMAGEM BORDERO CLICADA.
+12-06-2024 12:10:02.555Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+12-06-2024 12:10:03.258Z;functions.movimentacao_bancaria;  ENCONTROU O FILTRO DA MOVIMENTAÇÃO BANCÁRIA
+12-06-2024 12:10:03.320Z;functions.movimentacao_bancaria;  CLICA NA ABA SUPERIOR DO FILTRO
+12-06-2024 12:10:07.531Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+12-06-2024 12:10:11.961Z;functions.waitForImage;  FILTER CLEAN image found.
+12-06-2024 12:10:14.079Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+12-06-2024 12:10:14.289Z;functions.waitForImage;  FILTER CLEAN image found.
+12-06-2024 12:10:16.421Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+12-06-2024 12:10:31.726Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-06-2024 12:10:35.383Z;functions.movimentacao_bancaria;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+12-06-2024 12:10:36.606Z;functions.movimentacao_bancaria;  12 PASSOS PARA DIREITA NA TABELA >>
+12-06-2024 12:10:38.789Z;functions.movimentacao_bancaria;  HOVER FILTER
+12-06-2024 12:10:39.360Z;functions.movimentacao_bancaria;  CLICK FILTER
+12-06-2024 12:10:43.685Z;functions.movimentacao_bancaria;  CLICK NO FILTRO  STATUS DA REMESSA
+12-06-2024 12:10:45.788Z;functions.movimentacao_bancaria;  APERTA TAB PARA ESCREVER O FILTRO
+12-06-2024 12:10:47.904Z;functions.movimentacao_bancaria;  ESCREVE PENDENTE NO FILTRO
+12-06-2024 12:10:50.006Z;functions.movimentacao_bancaria;  APERTA ENTER PARA SELECIONAR OS PENDENTES
+12-06-2024 12:11:10.585Z;functions.movimentacao_bancaria;  SEM PROCESSAMENTO DE BORDERO PENDENTE.
+12-06-2024 12:11:15.789Z;functions.waitForImage;  FILTER CLEAN image found.
+12-06-2024 12:11:17.921Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+12-06-2024 12:11:33.211Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-06-2024 12:11:48.523Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-06-2024 12:11:50.289Z;functions.remessa_pagamento;  CLICK NA PRIMEIRA LINHA DA TABELA MOVIMENTAÇÃO BANCÁRIA
+12-06-2024 12:11:52.462Z;functions.remessa_pagamento;  HOVER FILTER
+12-06-2024 12:11:53.032Z;functions.remessa_pagamento;  CLICK FILTER
+12-06-2024 12:11:57.366Z;functions.remessa_pagamento;  CLICK NO FILTRO  STATUS DA REMESSA
+12-06-2024 12:11:59.469Z;functions.remessa_pagamento;  APERTA TAB PARA ESCREVER O FILTRO
+12-06-2024 12:12:01.587Z;functions.remessa_pagamento;  ESCREVE AUTORIZADO NO FILTRO
+12-06-2024 12:12:03.690Z;functions.remessa_pagamento;  APERTA ENTER PARA SELECIONAR OS AUTORIZADO
+12-06-2024 12:12:21.211Z;functions.remessa_pagamento;  SEM REMESSA DE BORDERO AUTORIZADO
+12-06-2024 12:12:22.167Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+12-06-2024 12:12:23.538Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+12-06-2024 12:12:24.476Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+12-06-2024 12:12:30.976Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+12-06-2024 12:12:31.898Z;functions.waitForImage;  LANÇAMENTOS image found.
+12-06-2024 12:12:34.046Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+12-06-2024 12:12:49.289Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+12-06-2024 12:12:49.289Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+12-06-2024 12:12:49.289Z;functions.data_filter;  QUARTA-FEIRA: 19-06-2024
+12-06-2024 12:12:49.289Z;functions.data_filter;  TERCA-FEIRA: 25-06-2024
+12-06-2024 12:13:02.788Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+12-06-2024 12:13:07.448Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 19-06-2024
+12-06-2024 12:13:11.835Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 25-06-2024
+12-06-2024 12:13:12.945Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+12-06-2024 12:13:17.948Z;functions.desmark_filter;  AGUARDANDO 1
+12-06-2024 12:13:20.382Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+12-06-2024 12:13:22.945Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+12-06-2024 12:13:25.663Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+12-06-2024 12:13:28.507Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+12-06-2024 12:13:31.570Z;functions.desmark_filter;  ATUALIZA O FILTRO
+12-06-2024 12:13:46.882Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-06-2024 12:14:02.148Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-06-2024 12:14:17.480Z;functions.waitForImage;  FILTER CLEAN image not found.
+12-06-2024 12:14:20.991Z;functions.tabela_vazia;  Texto extraido 0/0
+12-06-2024 12:14:20.991Z;functions.tabela_vazia;  Count 0
+12-06-2024 12:14:20.991Z;functions.tabela_vazia;  Type <class 'int'>
+12-06-2024 12:14:22.996Z;functions.tabela_vazia;  SEM REMESSA DE FÉRIAS/RESCISÃO
+12-06-2024 12:14:24.997Z;main.<module>;  SEM REMESSA DE FÉRIAS/RESCISÃO
+12-06-2024 12:14:25.216Z;functions.show_exception_and_exit;  [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 24, in <module>
+    emailFinalizado(texto_msg)
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 1267, in emailFinalizado
+    yag.send(to=str(email_receivers).split(','), subject=f"FINALIZADO SEM PROCESSAMENTO - BOT REMESSAS FÉRIAS/RESCISÃO",
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 156, in send
+    self.login()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 210, in login
+    self._login(self.credentials)
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\venv\Lib\site-packages\yagmail\sender.py", line 217, in _login
+    self.smtp = self.connection(self.host, self.port, **self.kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1050, in __init__
+    SMTP.__init__(self, host, port, local_hostname, timeout,
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 1057, in _get_socket
+    new_socket = self.context.wrap_socket(new_socket,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 517, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1075, in _create
+    self.do_handshake()
+  File "C:\Users\Administrador\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1346, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+12-06-2024 12:14:25.788Z;functions.show_exception_and_exit;  PRINT SALVO
+12-06-2024 12:14:26.054Z;functions.show_exception_and_exit;  RM FECHADO

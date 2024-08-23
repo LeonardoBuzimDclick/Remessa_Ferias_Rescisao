@@ -1,0 +1,142 @@
+01-02-2024 11:44:58.477Z;functions.bot_text_art;      ____   
+01-02-2024 11:44:58.477Z;functions.bot_text_art;     [____]    
+01-02-2024 11:44:58.477Z;functions.bot_text_art;   |=]()()[=|  
+01-02-2024 11:44:58.477Z;functions.bot_text_art;     _\==/__    _____    ____     _        _____    ___   _  __
+01-02-2024 11:44:58.477Z;functions.bot_text_art;   |__|   |_|  |  _  \  / ___|   | |      |_   _| / ___| | |/ /
+01-02-2024 11:44:58.477Z;functions.bot_text_art;   |_|_/\_|_|  | |  | | | |      | |        | |   | |    | ' / 
+01-02-2024 11:44:58.477Z;functions.bot_text_art;   | | __ | |  | |  | | | |      | |        | |   | |    |  <  
+01-02-2024 11:44:58.477Z;functions.bot_text_art;   |_|[  ]|_|  | |__| | | |____  | |____   _| |_  | |__  | . \ 
+01-02-2024 11:44:58.477Z;functions.bot_text_art;   \_|_||_|_/  |_____/   \_____| |______| |_____| \ ___| |_|\_\
+01-02-2024 11:44:58.477Z;functions.bot_text_art;     |_||_|                                                     
+01-02-2024 11:44:58.477Z;functions.bot_text_art;     | ||_|_   
+01-02-2024 11:44:58.477Z;functions.bot_text_art;   |___||___|  
+01-02-2024 11:44:58.477Z;functions.bot_text_art;               
+01-02-2024 11:44:58.492Z;functions.open_RM;  OPEN PROGRAM RM
+01-02-2024 11:45:05.284Z;functions.loggin_RM;  ENTRAR USER_NAME
+01-02-2024 11:45:06.125Z;functions.loggin_RM;  ENTRAR PASSWORD
+01-02-2024 11:45:06.841Z;functions.loggin_RM;  ENTRAR RM
+01-02-2024 11:45:35.862Z;functions.enter_coligada;  CLICK CONTEXTO
+01-02-2024 11:45:39.800Z;functions.enter_coligada;  CLICK COLIGADA 1
+01-02-2024 11:45:41.518Z;functions.enter_coligada;  CLICK AVANÇAR
+01-02-2024 11:45:43.143Z;functions.enter_coligada;  INSERE O COLIGADA CODE = 1
+01-02-2024 11:45:43.245Z;functions.enter_coligada;  APERTA TAB PARA PREENCHER O CAMPO COM A STRING: OCEANICA ENGENHARIA E CONSULTORIA S.A.
+01-02-2024 11:45:44.456Z;functions.enter_coligada;  CLICK AVANÇAR NOVAMENTE
+01-02-2024 11:45:45.393Z;functions.enter_coligada;  CLICK CONCLUIR
+01-02-2024 11:45:56.502Z;functions.enter_coligada;  POP UP COLIGADA DESAPARECER
+01-02-2024 11:45:57.112Z;functions.enter_contas_a_pagar;  CLICK - TOTVS - LINHA RM
+01-02-2024 11:45:58.206Z;functions.enter_contas_a_pagar;  CLICK - BACK OFFICE
+01-02-2024 11:45:58.923Z;functions.enter_contas_a_pagar;  CLICK - GESTAO FINANCEIRA
+01-02-2024 11:46:04.924Z;functions.enter_contas_a_pagar;  CLICK - CONTAS A PAGAR
+01-02-2024 11:46:05.080Z;functions.waitForImage;  LANÇAMENTOS image found.
+01-02-2024 11:46:07.185Z;functions.enter_contas_a_pagar;  CLICA EM LANÇAMENTOS
+01-02-2024 11:46:22.204Z;functions.waitForImage;  LICENCAS EXCEDIDAS image not found.
+01-02-2024 11:46:22.204Z;functions.data_filter;  DATA INICIO 07-02-2024
+01-02-2024 11:46:22.204Z;functions.data_filter;  DATA FIM 13-02-2024
+01-02-2024 11:46:22.204Z;functions.data_filter;  CLICK - SELECIONA A DATA DE QUARTA FEIRA E DA PROXIMA TERÇA
+01-02-2024 11:46:22.204Z;functions.data_filter;  QUARTA-FEIRA: 07-02-2024
+01-02-2024 11:46:22.204Z;functions.data_filter;  TERCA-FEIRA: 13-02-2024
+01-02-2024 11:46:26.111Z;functions.data_filter;  ESCREVE REMESSA BANCÁRIA NO FILTRO
+01-02-2024 11:46:26.740Z;functions.data_filter;  CLICK - BUTÃO DE SELECAO DE FILTRO
+01-02-2024 11:46:28.595Z;functions.data_filter;  INSERE - DATA DE QUARTA-FEIRA: 07-02-2024
+01-02-2024 11:46:30.111Z;functions.data_filter;  INSERE - DATA DA PROX TERCA-FEIRA: 13-02-2024
+01-02-2024 11:46:30.768Z;functions.data_filter;  CLICK - BUTÃO DE EXECUTAR O FILTRO
+01-02-2024 11:46:41.425Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS A RECEBER
+01-02-2024 11:46:42.248Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS BAIXADOS
+01-02-2024 11:46:43.095Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS CANCELADOS
+01-02-2024 11:46:43.994Z;functions.desmark_filter;  CLICK CHECKBOX LANÇAMENTOS FATURADOS
+01-02-2024 11:46:44.892Z;functions.desmark_filter;  ATUALIZA O FILTRO
+01-02-2024 11:47:15.345Z;functions.waitForImage;  FILTER CLEAN image not found.
+01-02-2024 11:47:15.345Z;functions.tabela_vazia;  VERIFICANDO SE A TABELA ESTÁ VAZIA
+01-02-2024 11:47:48.057Z;functions.tabela_vazia;  ATENÇÃO: 
+
+Este processo exige que seja selecionado ao menos um registro para sua execução.
+Como não foi feita nenhuma seleção, você deseja executá-lo para TODOS os 21 registros?
+01-02-2024 11:47:50.159Z;functions.tabela_vazia;  TABELA CONTÉM REGISTROS
+01-02-2024 11:47:50.893Z;functions.desbloqueio;  SELECIONA TODAS AS TUPLAS
+01-02-2024 11:47:55.996Z;functions.desbloqueio;  CONTROL P PARA SELECIONAR PROCESSO
+01-02-2024 11:47:58.703Z;functions.desbloqueio;  7 SETAS PARA BAIXO - MANUTENÇÃO DE LANÇAMENTO
+01-02-2024 11:48:00.804Z;functions.desbloqueio;  SETA PARA DIREITA
+01-02-2024 11:48:03.714Z;functions.desbloqueio;  9 SETAS PARA BAIXO
+01-02-2024 11:48:05.815Z;functions.desbloqueio;  ENTER PARA SELECIONAR DESBLOQUEIO ALTERAÇÃO
+01-02-2024 11:48:21.679Z;functions.desbloqueio;  SELECIONA PROCESSO DA EXECUCAO DOS PROGRESSOS ABA INFERIOR
+01-02-2024 11:48:22.721Z;functions.desbloqueio;  MSG AQUI: 
+01-02-2024 11:48:24.724Z;functions.desbloqueio;  DESBLOQUEIO COM SUCESSO
+01-02-2024 11:48:27.361Z;functions.desbloqueio;  SELECIONAR EVIDENCIAR ABA INFERIOR
+01-02-2024 11:48:29.464Z;functions.desbloqueio;  FECHANDO ABA INFERIOR
+01-02-2024 11:48:31.566Z;functions.exec_lancamentos;  CONTROL G
+01-02-2024 11:48:33.955Z;functions.exec_lancamentos;  CLICK PARA APARECER CONTA/CAIXA
+01-02-2024 11:48:34.675Z;functions.exec_lancamentos;  SELECIONA CONTA/CAIXA
+01-02-2024 11:48:35.424Z;functions.exec_lancamentos;  CLICK NO BOTÃO [...]
+01-02-2024 11:48:37.158Z;functions.exec_lancamentos;  CLICK NO CAMPO PESQUISA E DIGITA: %3212
+01-02-2024 11:48:37.840Z;functions.exec_lancamentos;  CLICK NO BOTÃO DO FILTRO
+01-02-2024 11:48:38.644Z;functions.exec_lancamentos;  CLICK NO BOTÃO OK
+01-02-2024 11:48:39.393Z;functions.exec_lancamentos;  CLICK NO BOTÃO EXECUTAR
+01-02-2024 11:49:00.033Z;functions.process_lancamentos;  EXECUÇÃO FINALIZADA
+01-02-2024 11:49:00.203Z;functions.waitForImage;  PRESS BUTTON OK image found.
+01-02-2024 11:49:02.204Z;functions.process_lancamentos;  O PROCESSAMENTO DE LANÇAMENTO FOI EXECUTADO COM SUCESSO.
+01-02-2024 11:49:11.192Z;functions.process_lancamentos;  Lançamento Ref. 911907: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911908: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911909: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911910: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911915: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911918: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911919: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911921: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911923: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911924: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911926: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911928: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911931: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911933: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911936: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911937: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911938: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911940: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911941: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911949: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Lançamento Ref. 911950: Convênio alterado para o convênio default '7' da conta Caixa '02675-5' .
+Alteração Global de Lançamentos executada com sucesso
+
+01-02-2024 11:49:27.312Z;functions.proccess_bordero;  SELECIONAR INCLUSÃO DE BORDERO
+01-02-2024 11:49:28.018Z;functions.proccess_bordero;  CLICK EM CONVÊNIO TRÊS PONTINHOS
+01-02-2024 11:49:29.267Z;functions.proccess_bordero;  CLICK EM COMBOBOX PARA SELECIONAR O ID DO CONVÊNIO
+01-02-2024 11:49:30.049Z;functions.proccess_bordero;  CLICK EM ID DO CONVÊNIO
+01-02-2024 11:49:32.151Z;functions.proccess_bordero;  APERTA TAB PARA ESCREVER O ID
+01-02-2024 11:49:34.252Z;functions.proccess_bordero;  ESCREVE O ID 9 - FERIAS/RESCISÃO
+01-02-2024 11:49:36.354Z;functions.proccess_bordero;  APERTA ENTER PARA SELECIONAR O ID 9 - FERIAS/RESCISÃO
+01-02-2024 11:49:38.456Z;functions.proccess_bordero;  APERTA ENTER PARA ESCOLHER O ID 9 - FERIAS/RESCISÃO
+01-02-2024 11:49:41.112Z;functions.proccess_bordero;  CLICK EM EXECUTAR NA INCLUSÃO DO BORDÊRO
+01-02-2024 11:50:02.373Z;functions.waitForImage;  PRESS BUTTON OK image found.
+01-02-2024 11:50:04.374Z;functions.proccess_bordero;  O PROCESSAMENTO DO BORDERO FOI EXECUTADO COM SUCESSO.
+01-02-2024 11:50:07.019Z;functions.proccess_bordero;  CLICK EM FECHAR.
+01-02-2024 11:50:18.300Z;functions.movimentacao_bancaria;  CLICK NA ABA MOVIMENTAÇÃO BANCARIA
+01-02-2024 11:50:19.047Z;functions.movimentacao_bancaria;  CLICK NO ICONE BORDERO DE PAGAMENTO
+01-02-2024 11:50:31.252Z;functions.movimentacao_bancaria;  SELECIONA O FILTRO HOJE
+01-02-2024 11:50:32.040Z;functions.waitForImage;  FILTER CLEAN image found.
+01-02-2024 11:50:34.150Z;functions.filter_clean;  CLICK NO BOTÃO X DO LIMPA FILTRO
+01-02-2024 11:51:22.846Z;functions.show_exception_and_exit;  'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\main.py", line 27, in <module>
+    movimentacao_bancaria()
+  File "C:\Projetos_Remessas\Remessa_Ferias_Rescisao\SUBPROGRAMS\functions.py", line 603, in movimentacao_bancaria
+    select_first_row.click()
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'click'
+01-02-2024 11:51:24.282Z;errorhandler.__handle;  Property: Unknown Property name. [1:203: -ms-interpolation-mode]
+01-02-2024 11:51:24.291Z;errorhandler.__handle;  Property: Unknown Property name. [1:353: -webkit-font-smoothing]
+01-02-2024 11:51:24.294Z;errorhandler.__handle;  Property: Unknown Property name. [1:483: -ms-text-size-adjust]
+01-02-2024 11:51:24.294Z;errorhandler.__handle;  Property: Unknown Property name. [1:518: -webkit-text-size-adjust]
+01-02-2024 11:51:24.295Z;errorhandler.__handle;  Property: Unknown Property name. [1:612: mso-table-lspace]
+01-02-2024 11:51:24.295Z;errorhandler.__handle;  Property: Unknown Property name. [1:642: mso-table-rspace]
+01-02-2024 11:51:24.343Z;errorhandler.__handle;  Property: Unknown Property name. [1:4734: mso-hide]
+01-02-2024 11:51:24.361Z;errorhandler.__handle;  Property: Unknown Property name. [1:13: -ms-interpolation-mode]
+01-02-2024 11:51:24.361Z;errorhandler.__handle;  Property: Unknown Property name. [1:49: -webkit-font-smoothing]
+01-02-2024 11:51:24.361Z;errorhandler.__handle;  Property: Unknown Property name. [1:134: -ms-text-size-adjust]
+01-02-2024 11:51:24.361Z;errorhandler.__handle;  Property: Unknown Property name. [1:160: -webkit-text-size-adjust]
+01-02-2024 11:51:24.361Z;errorhandler.__handle;  Property: Unknown Property name. [1:26: mso-table-lspace]
+01-02-2024 11:51:24.361Z;errorhandler.__handle;  Property: Unknown Property name. [1:45: mso-table-rspace]
+01-02-2024 11:51:24.377Z;errorhandler.__handle;  Property: Unknown Property name. [1:92: mso-hide]
+01-02-2024 11:51:24.377Z;errorhandler.__handle;  Property: No ":" after name found: align-center [1:1: align-center]
+01-02-2024 11:51:24.377Z;errorhandler.__handle;  Property: No property value found: align-center [1:1: align-center]
+01-02-2024 11:51:24.377Z;errorhandler.__handle;  CSSStyleDeclaration: Syntax Error in Property: align-center
+01-02-2024 11:51:24.377Z;errorhandler.__handle;  Property: Unknown Property name. [1:14: -ms-interpolation-mode]
